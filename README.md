@@ -1,5 +1,6 @@
 # Preface
-Based on guides and downloads accessed on Aug 06 2018 from https://hackintosher.com/guides/high-sierra-install-full-guide/
+Based on guides and downloads accessed on Aug 06 2018 from https://hackintosher.com/guides/high-sierra-install-full-guide/ and 
+https://hackintosher.com/guides/macos-high-sierra-hackintosh-install-clover-walkthrough/
 
 # Kext Modifications
 - Removed all ethernet kext except `intelmausiethernet.kext`
