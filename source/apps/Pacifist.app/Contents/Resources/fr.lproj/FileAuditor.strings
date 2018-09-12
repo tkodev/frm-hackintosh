@@ -1,0 +1,57 @@
+
+/* Class = "NSPanel"; title = "Receipt Search"; ObjectID = "1"; */
+"1.title" = "Recherche de reçu";
+
+/* Class = "NSButtonCell"; title = "Search"; ObjectID = "119"; */
+"119.title" = "Rechercher";
+
+/* Class = "NSWindow"; title = "Search Results"; ObjectID = "123"; */
+"123.title" = "Résultats de la recherche";
+
+/* Class = "NSTextFieldCell"; title = "Search Results:"; ObjectID = "135"; */
+"135.title" = "Résultat de la recherche :";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "144"; */
+"144.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "<do not localize>"; ObjectID = "146"; */
+"146.title" = "<do not localize>";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "152"; */
+"152.headerCell.title" = "Nom ";
+
+/* Class = "NSTableColumn"; headerCell.title = "Identifier"; ObjectID = "153"; */
+"153.headerCell.title" = "Identifiant";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "154"; */
+"154.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "155"; */
+"155.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "<do not localize>"; ObjectID = "170"; */
+"170.title" = "<do not localize>";
+
+/* Class = "NSButtonCell"; title = "Stop"; ObjectID = "171"; */
+"171.title" = "Arrêter";
+
+/* Class = "NSButtonCell"; title = "Extract Selected Files"; ObjectID = "191"; */
+"191.title" = "Extraire les fichiers sélectionés";
+
+/* Class = "IBBindingConnection"; ibShadowedDisplayPattern = "Receipts containing %{value1}@:"; ObjectID = "222"; */
+"222.ibShadowedDisplayPattern" = "Reçus contenant %{value1}@:";
+
+/* Class = "NSButtonCell"; title = "Case Sensitive"; ObjectID = "228"; */
+"228.title" = "Sensible à la casse";
+
+/* Class = "NSButtonCell"; title = "View Selected Receipts"; ObjectID = "235"; */
+"235.title" = "Voir les reçus sélectionnés";
+
+/* Class = "NSTextFieldCell"; title = "<don't localize>"; ObjectID = "BFK-F4-oYC"; */
+"BFK-F4-oYC.title" = "<don't localize>";
+
+/* Class = "NSTextFieldCell"; title = "<don't localize>"; ObjectID = "Ub4-JY-Fec"; */
+"Ub4-JY-Fec.title" = "<don't localize>";
+
+/* Class = "NSTextFieldCell"; title = "<don't localize>"; ObjectID = "kRJ-P4-IYd"; */
+"kRJ-P4-IYd.title" = "<don't localize>";

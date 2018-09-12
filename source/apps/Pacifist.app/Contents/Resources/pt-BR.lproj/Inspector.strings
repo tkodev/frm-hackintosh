@@ -1,0 +1,39 @@
+
+/* Class = "NSPanel"; title = "Inspetor"; ObjectID = "3"; */
+"3.title" = "Inspetor";
+
+/* Class = "NSBox"; title = "Caixa"; ObjectID = "19"; */
+"19.title" = "Caixa";
+
+/* Class = "NSBox"; title = "Caixa"; ObjectID = "72"; */
+"72.title" = "Caixa";
+
+/* Class = "NSTextFieldCell"; title = "Local Padrão da Instalação:\n"; ObjectID = "287"; */
+"287.title" = "Local Padrão da Instalação:\n";
+
+/* Class = "NSTextFieldCell"; title = "Tamanho:"; ObjectID = "295"; */
+"295.title" = "Tamanho:";
+
+/* Class = "NSTextFieldCell"; title = "Tipo:"; ObjectID = "296"; */
+"296.title" = "Tipo:";
+
+/* Class = "NSTextFieldCell"; title = "Data de Modificação:"; ObjectID = "297"; */
+"297.title" = "Data de Modificação:";
+
+/* Class = "NSTextFieldCell"; title = "Nome do Proprietário:"; ObjectID = "298"; */
+"298.title" = "Nome do Proprietário:";
+
+/* Class = "NSTextFieldCell"; title = "Nome do Grupo:"; ObjectID = "299"; */
+"299.title" = "Nome do Grupo:";
+
+/* Class = "NSTextFieldCell"; title = "Permissões:"; ObjectID = "300"; */
+"300.title" = "Permissões:";
+
+/* Class = "NSTextFieldCell"; title = "Soma de Verificação:"; ObjectID = "301"; */
+"301.title" = "Soma de Verificação:";
+
+/* Class = "NSTextFieldCell"; title = "Versão:"; ObjectID = "305"; */
+"305.title" = "Versão:";
+
+/* Class = "NSTextFieldCell"; title = "Identificador do Pacote:"; ObjectID = "309"; */
+"309.title" = "Identificador do Pacote:";

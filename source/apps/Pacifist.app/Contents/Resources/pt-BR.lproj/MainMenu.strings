@@ -1,0 +1,270 @@
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
+"5.title" = "Trazer Tudo para Frente";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
+"19.title" = "Janela";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
+"23.title" = "Minimizar";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
+"24.title" = "Janela";
+
+/* Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; */
+"29.title" = "Menu Principal";
+
+/* Class = "NSMenuItem"; title = "Pacifist"; ObjectID = "56"; */
+"56.title" = "Pacifist";
+
+/* Class = "NSMenu"; title = "Pacifist"; ObjectID = "57"; */
+"57.title" = "Pacifist";
+
+/* Class = "NSMenuItem"; title = "About Pacifist"; ObjectID = "58"; */
+"58.title" = "Sobre o Pacifist";
+
+/* Class = "NSMenuItem"; title = "Open Package…"; ObjectID = "72"; */
+"72.title" = "Abrir Package…";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "73"; */
+"73.title" = "Fechar";
+
+/* Class = "NSMenuItem"; title = "Install Files to Default Locations"; ObjectID = "75"; */
+"75.title" = "Instalar Arquivos para a Localização Padrão";
+
+/* Class = "NSMenuItem"; title = "Page Setup…"; ObjectID = "77"; */
+"77.title" = "Configurar Página…";
+
+/* Class = "NSMenuItem"; title = "Print…"; ObjectID = "78"; */
+"78.title" = "Imprimir…";
+
+/* Class = "NSMenuItem"; title = "Extract Files to Custom Location…"; ObjectID = "80"; */
+"80.title" = "Extrair Arquivos para o Local Personalizado…";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"81.title" = "Arquivo";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "Arquivo";
+
+/* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "124"; */
+"124.title" = "Abrir Recente";
+
+/* Class = "NSMenu"; title = "Open Recent"; ObjectID = "125"; */
+"125.title" = "Abrir Recente";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "126"; */
+"126.title" = "Limpar Menu";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; */
+"129.title" = "Preferências…";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "Serviços";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "Serviços";
+
+/* Class = "NSMenuItem"; title = "Hide Pacifist"; ObjectID = "134"; */
+"134.title" = "Ocultar o Pacifist";
+
+/* Class = "NSMenuItem"; title = "Quit Pacifist"; ObjectID = "136"; */
+"136.title" = "Encerrar o Pacifist";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "Ocultar Outros";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "Mostrar Tudo";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "157"; */
+"157.title" = "Copiar";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "158"; */
+"158.title" = "Desfazer";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "160"; */
+"160.title" = "Recortar";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "163"; */
+"163.title" = "Editar";
+
+/* Class = "NSMenuItem"; title = "Clear"; ObjectID = "164"; */
+"164.title" = "Limpar";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "169"; */
+"169.title" = "Editar";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "171"; */
+"171.title" = "colar";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "172"; */
+"172.title" = "Selecionar Tudo";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "173"; */
+"173.title" = "Refazer";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "184"; */
+"184.title" = "Gramática e Ortografia";
+
+/* Class = "NSMenu"; title = "Spelling and Grammar"; ObjectID = "185"; */
+"185.title" = "Gramática e Ortografia";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "187"; */
+"187.title" = "Mostrar Gramática e Ortografia";
+
+/* Class = "NSMenuItem"; title = "Check Spelling Now"; ObjectID = "189"; */
+"189.title" = "Verificar Ortografia Agora";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "191"; */
+"191.title" = "Verificar Ortografia ao Digitar";
+
+/* Class = "NSMenuItem"; title = "Show Info for Selected File"; ObjectID = "287"; */
+"287.title" = "Mostrar Informações do Arquivo Selecionado";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "354"; */
+"354.title" = "Ajuda";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "355"; */
+"355.title" = "Ajuda";
+
+/* Class = "NSMenuItem"; title = "Quick Start Guide…"; ObjectID = "356"; */
+"356.title" = "Guia de Introdução…";
+
+/* Class = "NSMenuItem"; title = "Register…"; ObjectID = "361"; */
+"361.title" = "Registrar…";
+
+/* Class = "NSMenuItem"; title = "Verify Files…"; ObjectID = "365"; */
+"365.title" = "Verificar Arquivos…";
+
+/* Class = "NSMenuItem"; title = "Install Files to Other Disk…"; ObjectID = "367"; */
+"367.title" = "Instalar Arquivos para Outro Disco…";
+
+/* Class = "NSMenuItem"; title = "<open install discs - don't localize>"; ObjectID = "370"; */
+"370.title" = "Abrir Instaladores da Apple";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "376"; */
+"376.title" = "Visualizar";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "377"; */
+"377.title" = "Visualizar";
+
+/* Class = "NSMenuItem"; title = "Hide Toolbar"; ObjectID = "378"; */
+"378.title" = "Ocultar Barra de Ferramentas";
+
+/* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "379"; */
+"379.title" = "Personalizar Barra de Ferramentas…";
+
+/* Class = "NSMenuItem"; title = "Show Main Window"; ObjectID = "393"; */
+"393.title" = "Mostrar Janela Principal";
+
+/* Class = "NSMenuItem"; title = "Create Receipt…"; ObjectID = "401"; */
+"401.title" = "Criar Recipiente…";
+
+/* Class = "NSMenuItem"; title = "View Selected Files"; ObjectID = "406"; */
+"406.title" = "Visualizar Arquivos Selecionados";
+
+/* Class = "NSMenuItem"; title = "Display Kernel Extension Report"; ObjectID = "408"; */
+"408.title" = "Exibir Relatório de Extensão do Núcleo";
+
+/* Class = "NSMenuItem"; title = "Open URL…"; ObjectID = "411"; */
+"411.title" = "Abrir URL…";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "472"; */
+"472.title" = "Buscar";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "473"; */
+"473.title" = "Buscar";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "474"; */
+"474.title" = "Buscar…";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "475"; */
+"475.title" = "Buscar Seguinte";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "476"; */
+"476.title" = "Buscar Anterior";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "477"; */
+"477.title" = "Usar Seleção para Busca";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "478"; */
+"478.title" = "Saltar para a Seleção";
+
+/* Class = "NSMenuItem"; title = "Create BOM Directory Listing…"; ObjectID = "506"; */
+"506.title" = "Criar Lista de Diretório BOM…";
+
+/* Class = "NSTextFieldCell"; title = "<do not localize>"; ObjectID = "873"; */
+"873.title" = "<do not localize>";
+
+/* Class = "NSButtonCell"; title = "Stop"; ObjectID = "874"; */
+"874.title" = "Parar";
+
+/* Class = "NSTextFieldCell"; title = "<Do not localize: app name>"; ObjectID = "876"; */
+"876.title" = "<don't localize>";
+
+/* Class = "NSButtonCell"; title = "<dl>"; ObjectID = "879"; */
+"879.title" = "<dl>";
+
+/* Class = "NSButtonCell"; title = "<don't loc.>"; ObjectID = "880"; */
+"880.title" = "<don't loc.>";
+
+/* Class = "NSTextFieldCell"; title = "<short instructions. do not localize>"; ObjectID = "882"; */
+"882.title" = "<short instructions. do not localize>";
+
+/* Class = "NSTextFieldCell"; title = "<do not localize: version>"; ObjectID = "883"; */
+"883.title" = "<do not localize: version>";
+
+/* Class = "NSButtonCell"; title = "Open"; ObjectID = "887"; */
+"887.title" = "Abrir";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "888"; */
+"888.title" = "Cancelar";
+
+/* Class = "NSTextFieldCell"; title = "Please enter the URL of the file you’d like to open:"; ObjectID = "890"; */
+"890.title" = "Por favor, insira a URL do arquivo que você deseja abrir:";
+
+/* Class = "NSMenuItem"; title = "Save File Listing…"; ObjectID = "891"; */
+"891.title" = "Salvar Lista de Arquivo…";
+
+/* Class = "NSMenuItem"; title = "Show Software Update Packages…"; ObjectID = "925"; */
+"925.title" = "Mostrar Pacotes de Atualização de Software…";
+
+/* Class = "NSMenuItem"; title = "Search Receipts…"; ObjectID = "927"; */
+"927.title" = "Pesquisar Recipientes…";
+
+/* Class = "NSMenuItem"; title = "Extract Subpackages…"; ObjectID = "930"; */
+"930.title" = "Extrair Subpacotes…";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "933"; */
+"933.title" = "Colar e Combinar Estilo";
+
+/* Class = "NSMenuItem"; title = "Check for Updates…"; ObjectID = "956"; */
+"956.title" = "Verificar Atualizações…";
+
+/* Class = "NSMenuItem"; title = "Install QuickLook Plug-in…"; ObjectID = "1007"; */
+"1007.title" = "Instalar o Plugin QuickLook…";
+
+/* Class = "NSMenuItem"; title = "Remove QuickLook Plug-in…"; ObjectID = "1008"; */
+"1008.title" = "Remover o Plugin QuickLook…";
+
+/* Class = "NSMenuItem"; title = "Licenses…"; ObjectID = "1155"; */
+"1155.title" = "Licenças…";
+
+/* Class = "NSMenuItem"; title = "Pacifist Help"; ObjectID = "1157"; */
+"1157.title" = "Ajuda do Pacifist";
+
+/* Class = "NSMenuItem"; title = "Credits…"; ObjectID = "1161"; */
+"1161.title" = "Créditos…";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "1186"; */
+"1186.title" = "Verificar Gramática e Ortografia";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "1187"; */
+"1187.title" = "Corrigir Ortografia Automaticamente";
+
+/* Class = "NSTextFieldCell"; title = "<do not localize>"; ObjectID = "1208"; */
+"1208.title" = "<do not localize>";
+
+/* Class = "NSTextFieldCell"; title = "<do not localize: registered to>\n<do not localize: username>"; ObjectID = "1230"; */
+"1230.title" = "<do not localize: registered to>\n<do not localize: username>";

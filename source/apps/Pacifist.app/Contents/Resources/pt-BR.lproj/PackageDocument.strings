@@ -1,0 +1,204 @@
+
+/* Class = "PackageDocumentWindow"; title = "Window"; ObjectID = "21"; */
+"21.title" = "Janela";
+
+/* Class = "NSTableColumn"; headerCell.title = "Search Results"; ObjectID = "107"; */
+"107.headerCell.title" = "Resultados da Pesquisa";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "188"; */
+"188.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "Install to Default Location"; ObjectID = "189"; */
+"189.title" = "Instalar para o Local Padrão";
+
+/* Class = "NSMenuItem"; title = "Extract to Custom Location…"; ObjectID = "190"; */
+"190.title" = "Extrair para o Local Personalizado…";
+
+/* Class = "NSMenuItem"; title = "Show Info"; ObjectID = "194"; */
+"194.title" = "Mostrar Informações";
+
+/* Class = "NSMenuItem"; title = "Verify…"; ObjectID = "198"; */
+"198.title" = "Verificar…";
+
+/* Class = "NSMenuItem"; title = "Install to Other Disk…"; ObjectID = "201"; */
+"201.title" = "Instalar para Outro Disco…";
+
+/* Class = "NSTextFieldCell"; title = "Package Install Directory:"; ObjectID = "1269"; */
+"1269.title" = "Diretório de Instalação do Pacote:";
+
+/* Class = "NSTextFieldCell"; title = "Size compressed: uncompressed:"; ObjectID = "1270"; */
+"1270.title" = "Tamanho comprimido: descomprimido:";
+
+/* Class = "NSTextFieldCell"; title = "<do not localize: size>"; ObjectID = "1271"; */
+"1271.title" = "Tamanho dos arquivos selecionados: 0.0 bytes";
+
+/* Class = "NSTextFieldCell"; title = "Package does not require authentication"; ObjectID = "1272"; */
+"1272.title" = "O pacote não exige autenticação";
+
+/* Class = "NSTextFieldCell"; title = "Extracting Files…"; ObjectID = "1275"; */
+"1275.title" = "Extraindo Arquivos…";
+
+/* Class = "NSButtonCell"; title = "Stop"; ObjectID = "1276"; */
+"1276.title" = "Parar";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1306"; */
+"1306.title" = "Janela";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "1313"; */
+"1313.headerCell.title" = "Nome";
+
+/* Class = "NSTableColumn"; headerCell.title = "Bundle Identifier"; ObjectID = "1314"; */
+"1314.headerCell.title" = "Identificador do Pacote";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1315"; */
+"1315.title" = "Célula de Texto";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1316"; */
+"1316.title" = "Célula de Texto";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "1323"; */
+"1323.headerCell.title" = "Tamanho";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1324"; */
+"1324.title" = "Célula de Texto";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "1331"; */
+"1331.title" = "Extrair…";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1333"; */
+"1333.title" = "Cancelar";
+
+/* Class = "NSToolbarItem"; label = "Install"; ObjectID = "1399"; */
+"1399.label" = "Instalar";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Install to Default Locations"; ObjectID = "1399"; */
+"1399.paletteLabel" = "Instalar para a Localização Padrão";
+
+/* Class = "NSToolbarItem"; toolTip = "Install files to the locations specified in the package"; ObjectID = "1399"; */
+"1399.toolTip" = "Instalar arquivos para a localização especificada no pacote";
+
+/* Class = "NSToolbarItem"; label = "Install to Disk…"; ObjectID = "1400"; */
+"1400.label" = "Instalar para o Disco…";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Install to Other Disk"; ObjectID = "1400"; */
+"1400.paletteLabel" = "Instalar para Outro Disco";
+
+/* Class = "NSToolbarItem"; toolTip = "Install files to a disk other than the boot disk"; ObjectID = "1400"; */
+"1400.toolTip" = "Instalar arquivos para um outro disco que não seja o de inicialização";
+
+/* Class = "NSToolbarItem"; label = "Extract To…"; ObjectID = "1403"; */
+"1403.label" = "Extrair Para…";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Extract to Custom Location"; ObjectID = "1403"; */
+"1403.paletteLabel" = "Extrair para o Local Personalizado";
+
+/* Class = "NSToolbarItem"; toolTip = "Extract files to a location of your choosing"; ObjectID = "1403"; */
+"1403.toolTip" = "Extrair arquivo para um local de sua escolha";
+
+/* Class = "NSToolbarItem"; label = "Verify"; ObjectID = "1406"; */
+"1406.label" = "Verificar";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Verify Files"; ObjectID = "1406"; */
+"1406.paletteLabel" = "Verificar Arquivos";
+
+/* Class = "NSToolbarItem"; toolTip = "Check files on the hard disk against files in the package and report differences"; ObjectID = "1406"; */
+"1406.toolTip" = "Verifica os arquivos do disco rígido com os arquivos do pacote e informa as diferenças";
+
+/* Class = "NSToolbarItem"; label = "Show Info"; ObjectID = "1409"; */
+"1409.label" = "Mostrar Informações";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Show Info"; ObjectID = "1409"; */
+"1409.paletteLabel" = "Mostrar Informações";
+
+/* Class = "NSToolbarItem"; toolTip = "Show inspector for selected items"; ObjectID = "1409"; */
+"1409.toolTip" = "Mostrar inspetor para arquivos selecionados";
+
+/* Class = "NSToolbarItem"; label = "Find"; ObjectID = "1417"; */
+"1417.label" = "Buscar";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Find"; ObjectID = "1417"; */
+"1417.paletteLabel" = "Buscar";
+
+/* Class = "NSToolbarItem"; toolTip = "Search for files in a package"; ObjectID = "1417"; */
+"1417.toolTip" = "Procurar por arquivos no pacote";
+
+/* Class = "NSToolbarItem"; label = "View Files"; ObjectID = "1421"; */
+"1421.label" = "Visualizar Arquivos";
+
+/* Class = "NSToolbarItem"; paletteLabel = "View Selected Files"; ObjectID = "1421"; */
+"1421.paletteLabel" = "Visualizar Arquivos Selecionados";
+
+/* Class = "NSToolbarItem"; toolTip = "View selected files"; ObjectID = "1421"; */
+"1421.toolTip" = "Visualizar arquivos selecionados";
+
+/* Class = "NSToolbarItem"; label = "Extract Subpackage"; ObjectID = "1434"; */
+"1434.label" = "Extrair Subpacote";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Extract Subpackages"; ObjectID = "1434"; */
+"1434.paletteLabel" = "Extrair Subpacotes";
+
+/* Class = "NSToolbarItem"; toolTip = "Extract subpackages contained within the package"; ObjectID = "1434"; */
+"1434.toolTip" = "Extrair subpacotes contidos no pacote";
+
+/* Class = "NSToolbarItem"; label = "Print"; ObjectID = "1439"; */
+"1439.label" = "Imprimir";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Print"; ObjectID = "1439"; */
+"1439.paletteLabel" = "Imprimir";
+
+/* Class = "NSToolbarItem"; toolTip = "Print"; ObjectID = "1439"; */
+"1439.toolTip" = "Imprimir";
+
+/* Class = "NSToolbarItem"; label = "Save File Listing"; ObjectID = "1443"; */
+"1443.label" = "Salvar Lista de Arquivo";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Save File Listing"; ObjectID = "1443"; */
+"1443.paletteLabel" = "Salvar Lista de Arquivo";
+
+/* Class = "NSToolbarItem"; toolTip = "Save File Listing"; ObjectID = "1443"; */
+"1443.toolTip" = "Salvar Lista de Arquivo";
+
+/* Class = "NSPanel"; title = "Find"; ObjectID = "5JR-Uv-Bje"; */
+"5JR-Uv-Bje.title" = "Buscar";
+
+/* Class = "NSTextFieldCell"; title = "<don't localize>"; ObjectID = "5uY-Rb-LJ3"; */
+"5uY-Rb-LJ3.title" = "<don't localize>";
+
+/* Class = "NSTextFieldCell"; title = "Find:"; ObjectID = "A84-Ui-qK4"; */
+"A84-Ui-qK4.title" = "Buscar:";
+
+/* Class = "IBBindingConnection"; ibShadowedDisplayPattern = "Size of selected files: %{value1}@"; ObjectID = "CqM-gM-rnx"; */
+"CqM-gM-rnx.ibShadowedDisplayPattern" = "Tamanho dos arquivos selecionados: %{value1}@";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "D15-pd-XAF"; */
+"D15-pd-XAF.title" = "Cancelar";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "DJw-OP-zcD"; */
+"DJw-OP-zcD.title" = "Box";
+
+/* Class = "NSSegmentedCell"; HBg-m5-LQp.ibShadowedLabels[0] = "Contents"; ObjectID = "HBg-m5-LQp"; */
+"HBg-m5-LQp.ibShadowedLabels[0]" = "Conteúdo do Pacote";
+
+/* Class = "NSSegmentedCell"; HBg-m5-LQp.ibShadowedLabels[1] = "Resources"; ObjectID = "HBg-m5-LQp"; */
+"HBg-m5-LQp.ibShadowedLabels[1]" = "Recursos";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "OLM-NB-2kN"; */
+"OLM-NB-2kN.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Find"; ObjectID = "Y4v-Sb-zHT"; */
+"Y4v-Sb-zHT.title" = "Buscar";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Find next occurrence of the Find string"; ObjectID = "oKj-NC-pUA"; */
+"oKj-NC-pUA.ibShadowedToolTip" = "Buscar a próxima ocorrência da sequência de busca";
+
+/* Class = "NSTextFieldCell"; title = "<don't localize>"; ObjectID = "qEu-CG-8nJ"; */
+"qEu-CG-8nJ.title" = "<don't localize>";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "tooltip"; ObjectID = "vis-js-B1i"; */
+"vis-js-B1i.ibShadowedToolTip" = "tooltip";
+
+/* Class = "NSTextFieldCell"; title = "<don't localize>"; ObjectID = "wuo-Fn-fW2"; */
+"wuo-Fn-fW2.title" = "<don't localize>";
+
+/* Class = "NSTextFieldCell"; title = "<dl>"; ObjectID = "z03-lb-MgJ"; */
+"z03-lb-MgJ.title" = "<dl>";

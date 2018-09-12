@@ -1,0 +1,18 @@
+{
+    Name = Pacifist;
+    AppleEventCode = "Pax!";
+
+    Commands = {
+        "GetURL" = {
+            CommandClass = GetURLScriptCommand;
+            AppleEventCode = GURL;
+            AppleEventClassCode = GURL;
+        };
+
+	"OpenURL" = {
+            CommandClass = "GetURLScriptCommand";
+            AppleEventCode = "OURL";
+            AppleEventClassCode = "WWW!";
+        };
+    };
+}

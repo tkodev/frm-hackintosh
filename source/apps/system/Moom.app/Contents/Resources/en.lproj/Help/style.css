@@ -1,0 +1,214 @@
+body {
+	background-color: #fff;
+	background-repeat: repeat-y;
+	background-position: left top;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+	font-family: -apple-system, -webkit-system-font, "Helvetica Neue", "Lucida Grande", Helvetica, Arial;
+	font-size: 14px;
+	line-height: 160%;
+}
+
+#sidebar {
+	position: fixed;
+	margin-left: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	width: 150px;
+	height: 100%;
+	padding: 16px;
+	background-color: #f8f8f8;
+	border-right: 1px solid #ddd;
+	color: #666;
+}
+
+#sidebar ul {
+	margin: 0;
+	padding: 0;
+	list-style: inside none;
+}
+#sidebar li {
+	margin: 0 0 6px 0;
+}
+#sidebar li + li {
+	margin-top: 6px;
+	padding-top: 6px;
+	border-top: 1px solid #e4e4e4;
+}
+#sidebar li ul {
+	margin: 0 0 0 10px;
+	padding: 0;
+	list-style: inside disc;
+	font-size: 12px;
+}
+#sidebar li li {
+	margin: 0;
+	padding: 0;
+	border-top: none;
+}
+
+#prefs p + p {
+	margin-top: 6px;
+	padding-top: 16px;
+	border-top: 1px dashed #e4e4e4;
+}
+
+
+a:link, a:visited {
+	color: #00d;
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	color: #00c;
+	text-decoration: none;
+}
+
+#sidebar a:link, #sidebar a:visited {
+	color: #00c;
+}
+#sidebar a:hover, #sidebar a:active {
+	color: #00b;
+}
+
+#content {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin-left: 199px;
+	margin-right: 16px;
+	margin-top: 10px;
+	padding-bottom: 16px;
+	color: #000;
+}
+
+h1 {
+	margin: 10px 0 25px 0;
+	font-size: 30px;
+	font-weight: normal;
+}
+
+h2 {
+	margin: 64px 0 16px 0;
+	padding-bottom: 3px;
+	font-size: 24px;
+	font-weight: normal;
+}
+
+h3 {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+h2 + h1 {
+	margin-top: 20px;
+}
+
+h1 + h3 {
+	margin-top: 0;
+}
+
+h3 + p {
+	margin-top: 8px;
+}
+
+code {
+	display: block;
+	margin: 8px 0 8px 0;
+	padding: 2px 5px 2px 5px;
+	border: 1px solid #eeeeee;
+}
+
+tt, pre {
+	color: #ad3900;
+}
+
+.activechapter {
+	font-weight: bold;
+	text-shadow: 0px 1px 2px #cccccc;
+}
+
+.technicalaside {
+	color: #999;
+	font-size: 12px;
+	line-height: 160%;
+}
+
+.grayborder {
+	border: 1px solid #cccccc;
+}
+
+.smallgray {
+	color: #999;
+	font-size: 10px;
+}
+
+.subrow {
+	border-bottom: 1px dashed #e4e4e4;
+}
+
+img.icon {
+	float: left;
+	margin-top: 5px;
+	margin-left:5px;
+	margin-bottom: 5px;
+	padding-right:10px;
+}
+
+div.header {
+	width: 100%;
+	margin-top: 40px;
+	margin-right:5px;
+	margin-bottom: 20px;
+	background-color: #edffd5; 
+	border-top:1px solid; 
+	border-bottom:1px solid;
+}
+
+p.stickynote, div.stickynote {
+	margin: 0 -16px 0 -16px;
+	padding: 16px;
+	background-color: #fff8bb;
+	color: #620;
+}
+
+.buttonheader {
+	margin-top:30px;
+}
+
+.centeralign {
+	text-align:center;
+}
+
+.noof {
+	padding: 2px 3px 2px 4px;
+	background-color: #900;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	color: #fff;
+	font-size:11px;
+}
+
+/* stupid clearfix ... i hate css */
+
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+ 
+.clearfix {
+	display: inline-block;
+}
+ 
+html[xmlns] .clearfix {
+	display: block;
+}
+ 
+* html .clearfix {
+	height: 1%;
+}

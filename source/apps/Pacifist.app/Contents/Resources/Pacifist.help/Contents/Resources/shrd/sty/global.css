@@ -1,0 +1,30 @@
+.page_header {
+    padding-left: 8px;
+}
+
+.header_icon {
+    vertical-align: middle;
+}
+
+.pagetitle {
+    vertical-align: middle;
+    padding-left: 8px;
+}
+
+@media screen and (-webkit-max-device-pixel-ratio: 1.0), screen and (max-device-pixel-ratio: 1.0) {
+	.hires {
+		display: none;
+	}
+
+	.lores {
+	}
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-device-pixel-ratio: 1.5) {
+	.hires {
+	}
+	
+	.lores {
+		display: none;
+	}
+}

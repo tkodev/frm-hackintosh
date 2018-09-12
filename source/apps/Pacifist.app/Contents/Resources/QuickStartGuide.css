@@ -1,0 +1,23 @@
+body {
+    font-family: "Helvetica Neue";
+    font-size: 12pt;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.welcome_header {
+    padding-top: 0px;
+    margin-top: 0px;
+    font-size: 2.15em;
+    font-weight: bold;
+    color: #232323;
+}
+
+.options_ol {
+    
+}
+
+.options_li {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}

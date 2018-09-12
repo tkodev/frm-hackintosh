@@ -1,0 +1,75 @@
+
+/* Class = "NSWindow"; title = "Kernel Extension Report"; ObjectID = "5"; */
+"5.title" = "内核扩展报告";
+
+/* Class = "NSTableColumn"; headerCell.title = "Bundle Identifier"; ObjectID = "7"; */
+"7.headerCell.title" = "捆绑包标识符";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "9"; */
+"9.headerCell.title" = "名称";
+
+/* Class = "NSTableColumn"; headerCell.title = "Apple Made"; ObjectID = "11"; */
+"11.headerCell.title" = "Apple 制作";
+
+/* Class = "NSTableColumn"; headerCell.title = "Apple Provided"; ObjectID = "12"; */
+"12.headerCell.title" = "Apple 提供";
+
+/* Class = "NSButtonCell"; title = "Include kernel extension plug-ins"; ObjectID = "120"; */
+"120.title" = "包括内核扩展插件";
+
+/* Class = "NSButtonCell"; title = "Stop"; ObjectID = "121"; */
+"121.title" = "停止";
+
+/* Class = "NSTextFieldCell"; title = "<text field>"; ObjectID = "122"; */
+"122.title" = "<text field>";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "123"; */
+"123.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "124"; */
+"124.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "125"; */
+"125.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "126"; */
+"126.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Receipt Name"; ObjectID = "164"; */
+"164.headerCell.title" = "回执名称";
+
+/* Class = "NSTableColumn"; headerCell.title = "Identifier"; ObjectID = "165"; */
+"165.headerCell.title" = "标识符";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "166"; */
+"166.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "167"; */
+"167.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "<do not localize>"; ObjectID = "196"; */
+"196.title" = "<do not localize>";
+
+/* Class = "NSTextFieldCell"; title = "Receipts containing this kernel extension:"; ObjectID = "202"; */
+"202.title" = "回执包含此内核扩展：";
+
+/* Class = "NSButtonCell"; title = "Reveal in Finder"; ObjectID = "205"; */
+"205.title" = "在 Finder 中显示";
+
+/* Class = "NSTextFieldCell"; title = "<don't localize>"; ObjectID = "1DT-8i-vnc"; */
+"1DT-8i-vnc.title" = "<don't localize>";
+
+/* Class = "NSTextFieldCell"; title = "<don't localize>"; ObjectID = "IU2-fz-F56"; */
+"IU2-fz-F56.title" = "<don't localize>";
+
+/* Class = "NSTextFieldCell"; title = "<don't localize>"; ObjectID = "Lrd-BB-heu"; */
+"Lrd-BB-heu.title" = "<don't localize>";
+
+/* Class = "NSTextFieldCell"; title = "<don't localize>"; ObjectID = "O5h-86-WUf"; */
+"O5h-86-WUf.title" = "<don't localize>";
+
+/* Class = "NSTextFieldCell"; title = "<don't localize>"; ObjectID = "gJI-fA-etn"; */
+"gJI-fA-etn.title" = "<don't localize>";
+
+/* Class = "NSTextFieldCell"; title = "<dl>"; ObjectID = "xf0-w1-y5X"; */
+"xf0-w1-y5X.title" = "<dl>";

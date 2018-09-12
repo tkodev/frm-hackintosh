@@ -1,0 +1,4 @@
+Generate C & P STATE = unchecked
+kext-dev-mode = unchecked
+kernelpm = checked
+booter config and csr config

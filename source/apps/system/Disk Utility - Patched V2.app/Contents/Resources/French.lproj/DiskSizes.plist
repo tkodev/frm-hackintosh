@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Disk Sizes</key>
+	<array>
+		<dict>
+			<key>label</key>
+			<string>2,5 Mo</string>
+			<key>layout</key>
+			<string>AUCUN</string>
+			<key>sectors</key>
+			<integer>5000</integer>
+			<key>units</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>5 Mo</string>
+			<key>layout</key>
+			<string>AUCUN</string>
+			<key>sectors</key>
+			<integer>10000</integer>
+			<key>units</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>10 Mo</string>
+			<key>layout</key>
+			<string>AUCUN</string>
+			<key>sectors</key>
+			<integer>20000</integer>
+			<key>units</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>40 Mo</string>
+			<key>layout</key>
+			<string>AUCUN</string>
+			<key>sectors</key>
+			<integer>80000</integer>
+			<key>units</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>100 Mo</string>
+			<key>layout</key>
+			<string>AUCUN</string>
+			<key>sectors</key>
+			<integer>200000</integer>
+			<key>units</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>500 Mo</string>
+			<key>layout</key>
+			<string>DD UNIVERSEL</string>
+			<key>sectors</key>
+			<integer>1000000</integer>
+			<key>units</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>-</string>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>177 Mo (CD-ROM 8 cm)</string>
+			<key>layout</key>
+			<string>CD UNIVERSEL</string>
+			<key>sectors</key>
+			<integer>354000</integer>
+			<key>units</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>610 Mo (CD-ROM 74 min)</string>
+			<key>layout</key>
+			<string>CD UNIVERSEL</string>
+			<key>sectors</key>
+			<integer>1220000</integer>
+			<key>units</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>660 Mo (CD-ROM 80 min)</string>
+			<key>layout</key>
+			<string>CD UNIVERSEL</string>
+			<key>sectors</key>
+			<integer>1326000</integer>
+			<key>units</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>-</string>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>2,5 Go (DVD-RAM)</string>
+			<key>layout</key>
+			<string>CD UNIVERSEL</string>
+			<key>sectors</key>
+			<integer>5077124</integer>
+			<key>units</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>4,6 Go (DVD-R/DVD-RAM)</string>
+			<key>layout</key>
+			<string>CD UNIVERSEL</string>
+			<key>sectors</key>
+			<integer>9178688</integer>
+			<key>units</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>8,3 Go (DVD+R double couche)</string>
+			<key>layout</key>
+			<string>CD UNIVERSEL</string>
+			<key>sectors</key>
+			<integer>16674816</integer>
+			<key>units</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>-</string>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>Custom - do not loc</string>
+			<key>sectors</key>
+			<integer>-1</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

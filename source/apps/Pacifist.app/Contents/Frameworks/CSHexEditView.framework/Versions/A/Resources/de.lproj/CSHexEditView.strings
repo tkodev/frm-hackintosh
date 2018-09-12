@@ -1,0 +1,117 @@
+﻿
+/* Class = "NSPanel"; title = "Go To Offset"; ObjectID = "5"; */
+"5.title" = "Gehe zum Absatz";
+
+/* Class = "NSPanel"; title = "Find"; ObjectID = "30"; */
+"30.title" = "Suchen";
+
+/* Class = "NSBox"; title = "Search Type"; ObjectID = "54"; */
+"54.title" = "Methode";
+
+/* Class = "NSBox"; title = "Find Options"; ObjectID = "59"; */
+"59.title" = "Suchoptionen";
+
+/* Class = "NSBox"; title = "Replace All Scope"; ObjectID = "63"; */
+"63.title" = "Suchbereich";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "113"; */
+"113.title" = "Menü";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "114"; */
+"114.title" = "Ausschneiden";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "115"; */
+"115.title" = "Kopieren";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "116"; */
+"116.title" = "Einsetzen";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "118"; */
+"118.title" = "Suchen";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "119"; */
+"119.title" = "Suchen";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "120"; */
+"120.title" = "Auswahl suchen";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "121"; */
+"121.title" = "Auswahl anzeigen";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "122"; */
+"122.title" = "Suchen …";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "123"; */
+"123.title" = "Weitersuchen (vorwärts)";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "124"; */
+"124.title" = "Weitersuchen (rückwärts)";
+
+/* Class = "NSMenuItem"; title = "Find Hex…"; ObjectID = "130"; */
+"130.title" = "Hex suchen …";
+
+/* Class = "NSMenuItem"; title = "Find ASCII…"; ObjectID = "131"; */
+"131.title" = "ASCII suchen …";
+
+/* Class = "NSMenuItem"; title = "Go to Offset…"; ObjectID = "132"; */
+"132.title" = "Gehe zum Absatz …";
+
+/* Class = "NSMenuItem"; title = "Overwrite Mode"; ObjectID = "146"; */
+"146.title" = "Überschreibmodus";
+
+/* Class = "NSTextFieldCell"; title = "Go To Offset:"; ObjectID = "150"; */
+"150.title" = "Gehe zum Absatz:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "151"; */
+"151.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "152"; */
+"152.title" = "Abbrechen";
+
+/* Class = "NSTextFieldCell"; title = "Find:"; ObjectID = "153"; */
+"153.title" = "Suchen:";
+
+/* Class = "NSTextFieldCell"; title = "Replace:"; ObjectID = "154"; */
+"154.title" = "Ersetzen:";
+
+/* Class = "NSButtonCell"; title = "Next"; ObjectID = "157"; */
+"157.title" = "Weiter";
+
+/* Class = "NSButtonCell"; title = "Previous"; ObjectID = "158"; */
+"158.title" = "Zurück";
+
+/* Class = "NSButtonCell"; title = "Replace"; ObjectID = "159"; */
+"159.title" = "Ersetzen";
+
+/* Class = "NSButtonCell"; title = "Replace & Find"; ObjectID = "160"; */
+"160.title" = "Ersetzen & Suchen";
+
+/* Class = "NSButtonCell"; title = "Replace All"; ObjectID = "161"; */
+"161.title" = "Alles ersetzen";
+
+/* Class = "NSTextFieldCell"; title = "X Replaced"; ObjectID = "162"; */
+"162.title" = "X ersetzt";
+
+/* Class = "NSButtonCell"; title = "Selected Range"; ObjectID = "D0P-yH-N0F"; */
+"D0P-yH-N0F.title" = "Ausgewählter Bereich";
+
+/* Class = "NSButtonCell"; title = "Wrap Around"; ObjectID = "DoB-cP-Vhd"; */
+"DoB-cP-Vhd.title" = "Gesamtes Dokument";
+
+/* Class = "NSButtonCell"; title = "Ignore Case"; ObjectID = "OF8-Qe-gXF"; */
+"OF8-Qe-gXF.title" = "Groß-/Kleinschreibung ignorieren";
+
+/* Class = "NSButtonCell"; title = "Hex"; ObjectID = "Wxv-fn-TAg"; */
+"Wxv-fn-TAg.title" = "Hex";
+
+/* Class = "NSButtonCell"; title = "ASCII"; ObjectID = "YEB-o0-anO"; */
+"YEB-o0-anO.title" = "ASCII";
+
+/* Class = "NSButtonCell"; title = "Entire File"; ObjectID = "m4O-SH-4OW"; */
+"m4O-SH-4OW.title" = "Gesamte Datei";
+
+/* Class = "NSButtonCell"; title = "Decimal"; ObjectID = "nAt-CP-MF1"; */
+"nAt-CP-MF1.title" = "Dezimal";
+
+/* Class = "NSButtonCell"; title = "Hex"; ObjectID = "nMH-pd-O3F"; */
+"nMH-pd-O3F.title" = "Hex";

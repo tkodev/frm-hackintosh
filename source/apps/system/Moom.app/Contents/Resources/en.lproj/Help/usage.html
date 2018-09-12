@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Usage</title>
+		<meta name="AppleTitle" content="Moom Help">
+		<meta name="AppleIcon" content="Help/images/helpbook.png">
+		<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+		<link rel="stylesheet" href="style.css" type="text/css">
+	</head>
+	<body>
+		<div id="sidebar">
+			<ul>
+				<li><a href="overview.html">Overview</a></li>
+				<li><a href="#top"><b>Usage</b></a>
+					<ul>
+						<li><a href="#usage_mavericks">Enable in Mavericks</a></li>
+						<li><a href="#usage_other">Enable in other versions</a></li>
+						<li><a href="#usage_mouse">Mouse Mode - Zoom</a></li>
+						<li><a href="#usage_mouse2">Mouse Mode - Snap</a></li>
+						<li><a href="#usage_keyboard">Keyboard Mode</a></li>
+						<li><a href="#usage_applescript">AppleScript</a></li>
+					</ul>
+				</li>
+				<li><a href="settings.html">Settings</a></li>
+				<li><a href="custom.html">Custom Controls</a></li>
+			</ul>
+		</div>
+		<a name="top"></a>
+		<div id="content">
+			<h1>Usage</h1>
+			<p>Moom can be used via the mouse or the keyboard, depending on your personal preferences&mdash;you don't need to choose one or the other, though: Moom can watch for both mouse and keyboard activation at all times. (You can separately disable either mode in Moom's <a href="settings.html">Settings</a>. One mode must be active at all times, however.)</p>
+			<p>Make sure you also read about <a href="custom.html">Custom Controls</a>, which greatly expand Moom's powers, and are usable in both keyboard and mouse mode.</p>
+			
+			<!-- ................................ USAGE - Yosemite/Mavericks ........... -->
+			<a name="usage_mavericks"></a>
+			<h2>Enable in Yosemite (OS X 10.10) and Mavericks (OS X 10.9)</h2>
+			<p>To enable Moom in Mavericks, launch Moom on your Mac. If you haven't run Moom in Mavericks on that particular Mac before, you'll see this dialog:</p>
+			<div class="centeralign">
+				<img src="images/enable_access.png" width="573" alt="Accessibility warning">
+			</div>
+			<p>Unlike older versions of OS X, usage of the Accessibility system is allowed (or denied) on an app by app basis; click Open System Preferences in the above dialog box, and Mavericks will take you to the Security and Privacy panel of System Preferences, with the Privacy tab preselected.</p>
+			<p>When this screen appears, you need to make sure that <b>the box next to Moom is checked</b>. If it's not, Moom will not function properly&mdash;the app will launch and run, but nothing will actually work!</p>
+			<div class="centeralign">
+				<img src="images/security_pane.png" width="780" alt="security">
+			</div>
+			<p>You will have to enter an admin user's name and password to modify this panel. Once the box is checked, you're done and ready to use Moom.</p>
+			
+			<!-- ................................ USAGE - Other versions ........... -->
+			<a name="usage_other"></a>
+			<h2>Enable in Other Versions</h2>
+			<p>In versions of OS X prior to Mavericks, usage of the Accessibility system was a simple yes/no choice; once enabled, it was enabled in all apps. Many programs use the Accessibility system, so the chances are good you've previously enabled it. But if you haven't, you'll see this dialog when you launch Moom for the first time:</p>
+			<div class="centeralign">
+				<img src="images/accessibility_older.png" width="534" alt="assistive warning">
+			</div>
+			<p>Click the one button available, and the Accessibility System Preferences panel will open. When it does, check the box next to "Enable access for assistive devices:"</p>
+			<div class="centeralign">
+				<img src="images/enable_older.png" width="782" alt="Accessibiliy panel">
+			</div>
+			<p>Once that box is checked, Moom is ready to use.</p>
+		
+						
+			<!-- ................................ USAGE - mouse zoom........... --> 
+			<a name="usage_mouse"></a>
+			<h2>Mouse Mode - Zoom</h2>
+			<p>Using Moom in mouse mode is as simple as moving your mouse over any green zoom button, then hovering for a tenth of a second (or the time period you've specified in the Mouse section of Moom's settings). When you do, the Moom palette will appear; you then either click, or click-and-drag, on one of the icons to move and/or zoom the chosen window. Here's what the palette looks like:</p>
+			<div class="centeralign">
+				<img src="images/mousecontroller.png" width="305" alt="mouse controller">
+			</div>
+			<p>Using Moom in mouse mode, you can quickly move and zoom windows to half size or quarter size, or move windows to other displays.</p>
+			<p>A single click on any of the displayed icons tells Moom to move the window to the chosen side, and set it to half the available space at that location:</p>
+			<table cellpadding="0" border="0" cellspacing="0" style="margin-left:20px">
+				<tr>
+					<td style="padding: 3px 0"><img src="images/bn_restore.png" width="25" alt="Restore" align="top"></td>
+					<td style="padding-left:20px;">Restore window to its original size and location. (Only visible after having previously moved/zoomed a window.)</td>
+				</tr>
+				<tr><td>&nbsp;</td></tr>
+				<tr>
+					<td style="padding: 3px 0"><img src="images/bn_fillscreen.png" width="21" alt="Full screen" align="top"></td>
+					<td style="padding-left:20px">Resize window to full screen size, excluding the menu bar and the Dock. <b>Note:</b> If you hold down the Option key, the full-screen icon will change to the center icon <img src="images/bn_center.png" width="21" alt="Center window" align="top">, allowing easy window centering via the mouse. Use Shift-Option to place the window at absolute screen center.</td>
+				</tr>
+				<tr><td>&nbsp;</td></tr>
+				<tr>
+					<td style="padding: 3px 0"><img src="images/bn_left.png" width="21" alt="Left half" align="top"></td>
+					<td style="padding-left:20px" rowspan="4">These four icons move and zoom windows to each edge of the screen, and size them to take up half the available screen space. (So windows pinned to the left or right screen edge are half the screen width; those pinned to the top or bottom are half the screen height.<!--Pin window to <span style="border-bottom:1px solid #aaa">left edge</span> of screen, size at <span style="border-bottom:1px solid #aaa">full height</span> and <span style="border-bottom:1px solid #aaa">half width.--></td>
+				</tr>
+				<tr>
+					<td style="padding: 3px 0"><img src="images/bn_right.png" width="21" alt="Right half" align="top"></td>
+					<td style="padding-left:20px"><!--Pin window to <span style="border-bottom:1px solid #aaa">right edge</span> of screen, size at <span style="border-bottom:1px solid #aaa">full height</span> and <span style="border-bottom:1px solid #aaa">half width</span>.--></td>
+				</tr>
+				<tr>
+					<td style="padding: 3px 0"><img src="images/bn_top.png" width="21" alt="Top half" align="top"></td>
+					<td style="padding-left:20px"><!--Pin window to <span style="border-bottom:1px solid #aaa">top edge</span> of screen, size at <span style="border-bottom:1px solid #aaa">full width</span> and <span style="border-bottom:1px solid #aaa">half height</span>.--></td>
+				</tr>
+				<tr>
+					<td style="padding: 3px 0"><img src="images/bn_bottom.png" width="21" alt="Bottom half" align="top"></td>
+					<td style="padding-left:20px"><!--Pin window to <span style="border-bottom:1px solid #aaa">bottom edge</span> of screen, size at <span style="border-bottom:1px solid #aaa">full width</span> and <span style="border-bottom:1px solid #aaa">half height</span>.--></td>
+				</tr>
+			</table>
+			<p>As soon as you click, the selected action will be performed on the window.</p>
+			<h3>Custom controls in mouse mode</h3>
+			<p>If you've enabled custom controls on the Mouse tab of <a href="settings.html">Settings</a>, then Moom's mouse interface gains one icon:</p>
+			<div align="center"><img src="images/mouse_custom_basic.png" width="305"></div>
+			<p>The small 'person' icon on the left is a drop-down menu. It contains any custom controls you've created, along with (if applicable) a menu item to revert the current window to its previous state, as the revert arrow is no longer available:</p>
+			<div align="center"><img src="images/mouse_custom_revert.png" width="488"></div>
+			<p class="stickynote">If you hold down the Option key, the custom icon will change into the restore window position icon, making it simpler to undo a Moomed window.</p>
+			<p class="stickynote">One of the <a href="custom.html">Custom Controls</a> you can create is Revert to Original Dimensions. If you create one of these custom controls, then Moom's built-in Revert entry won't show up (but your custom command will).</p>
+			<p><b>Corner pin, quarter size:</b> Instead of clicking an icon, if you click-and-drag an icon, you can pin the window into a screen corner, and set it to take up one-quarter of the available space:</p>
+			<ul>
+				<li>
+					<p>Click-and-hold on the left-edge (or right-edge) icon, then drag your mouse slightly <span style="border-bottom:1px solid #aaa">up or down</span>. As you do, you'll see the icon cycle between the three possible size and location options, depending on whether you started with the left- or right-edge icon:</p>
+					<p>Left edge: <img src="images/bn_left.png" width="21" alt="Left" align="top">
+					<img src="images/bn_bottomleft.png" width="21" alt="Bottom left" align="top">
+					<img src="images/bn_topleft.png" width="21" alt="Top left" align="top">
+					&nbsp;&nbsp;&nbsp;&nbsp;Right edge:
+					<img src="images/bn_right.png" width="21" alt="Left" align="top">
+					<img src="images/bn_bottomright.png" width="21" alt="Bottom left" align="top">
+					<img src="images/bn_topright.png" width="21" alt="Top left" align="top"></p>
+				</li>
+				<li>
+					<p>Click-and-hold on the top-edge (or bottom-edge) icon, then drag your mouse slightly <span style="border-bottom:1px solid #aaa">left or right</span>. As you do, you'll see the icon cycle between the three possible size and location options, depending on whether you started with the top- or bottom-edge icon:</p>
+					<p>Top edge: <img src="images/bn_top.png" width="21" alt="Top" align="top">
+					<img src="images/bn_topleft.png" width="21" alt="Top left" align="top">
+					<img src="images/bn_topright.png" width="21" alt="Top right" align="top">
+					&nbsp;&nbsp;&nbsp;&nbsp;Bottom edge:
+					<img src="images/bn_bottom.png" width="21" alt="Bottom" align="top">
+					<img src="images/bn_bottomleft.png" width="21" alt="Bottom left" align="top">
+					<img src="images/bn_bottomright.png" width="21" alt="Bottom right" align="top"></p>
+				</li>
+			</ul>
+			<p>Release the mouse when the corner position you'd like to use is shown, and the window will move there, and resize to one-quarter of the screen.</p>
+			<p><b>Add the Option key:</b> As noted above, If you hold down the Option key, you can use Moom's mouse interface to center a window. But that's not all; the Option key also provides a quick shortcut for creating quarter-size corner-pinned windows. With the Option key held down, Moom's mouse interface will look like this:</p>
+			<div align="center"><img src="images/mouse_with_option_key.png" width="286"></div>
+			<p>Just click on the quarter-sized window location you'd like to use, and Moom will do the rest. The first icon, as noted above, centers the window.</p>
+			
+			<p><b>Move windows to other displays while Mooming:</b> In mouse mode, you can not only move and zoom windows on the current display, but you can move and zoom them across displays, too.</p>
+			<p>To move and zoom a window to another display click-and-drag on one of the icons in the direction of the target display. So if your two displays are arranged vertically, drag up or down on the icon; if they're side-by-side, drag left or right. As you drag, a small arrow will appear, indicating that you will be affecting the targeted display. Here's how it looks on each of the standard icons:</p>
+			
+			<div class="centeralign">
+				<img src="images/moom_other_display.png" width="135" alt="Moom across displays">
+			</div>
+			
+			<p>Notice that there's no way to move and zoom to another display with a top-half or bottom-half action; those two buttons instead lead to corners. There's also no way to go to either side of another display; it will only jump to one of the edges/corners. For these reasons, if you want to move windows between displays with full control, you should use <a href="custom.html">Custom Controls</a> to get the job done.</p>		
+
+
+			<p><a name="gridresize"></a><b>Resize via grid:</b> Moom can also resize windows via an onscreen grid in mouse mode (and in keyboard mode; see <a href="settings.html">Settings help</a> for more details on this). Grid resizing is disabled by default; enable (and configure) it on the Mouse tab of Moom's settings window.</p>
+			<p><img src="images/mouse_grid.png" width="291" align="right" style="padding-left:10px">Once enabled, a resize grid will appear below the standard Moom interface, as seen in the image at right.</p>
+			<p>The grid represents a small version of your screen, and the lighter squares show the size and position of the frontmost window. (An all-white square means that your window will completely fill that quadrant of your screen; shades of gray denote partial filling of other quadrants.)</p>
+			<p>To move and resize a window using the grid, either click on any individual square, or click-and-drag to move and resize the window to the size and location you've dragged out on the grid.</p>
+		
+			<p>As you drag across the grid, Moom will highlight the actual screen area that you're dragging out on the grid.</p>
+			<p>You can change the size of the grid on the Mouse Settings tab of Moom's Settings window.</p>
+			<!-- ................................ USAGE - mouse zoom........... --> 
+			
+			<a name="usage_mouse2"></a>
+			<h2>Mouse Mode - Snap</h2>
+			<p>Once snap mode is enabled (in the Mouse section of Moom's settings), you can move and zoom a window by simply dragging it to a screen edge. What happens at each edge is defined on the <b>Snap to Edges and Corners</b> tab of the Mouse section of Moom's settings (see <a href="settings.html#settings_mouse">Mouse Settings help</a>). You can also set the amount of time before a snap resize occurs, choose whether or not to watch for edges between multiple monitors, and if you'd like to revert resizing actions by dragging.</p>
+			
+			<p>Using snap mode is simple: just drag a window to an edge or corner of a screen. After the delay period you've chosen in Moom's settings (0.2 seconds by default), a preview appears, showing the new size/location of the dragged window. For example, here's a window that's been dragged to the upper-left and then the upper-right corner of the display:</p>
+			
+			<div align="center"><img src="images/snap_preview.jpg" width="600"></div>
+			
+			<p>To resize the window after the preview appears, just release the mouse button. If you change your mind, drag the window away from the edge until the preview window disappears&mdash;no resizing will occur when you then release the mouse button.</p>
+			
+			<p class="stickynote">Moom's snap mode generally won't work well with Spaces/Desktops, as you can switch Spaces/Desktops by dragging windows to screen edges. If you must use Moom's snap mode and Spaces/Desktops together, you should experiment with the delay value to find one that matches your usage of edge-dragging for Space/Desktop change. Unfortunately, there's no way to use multiple Desktops/Spaces while disabling the drag-to-edge-for-new behavior.</p>
+
+			<!-- ................................ USAGE - keyboard ............ --> 
+			<div style="margin-left:25%; margin-right:25%; padding-top:10px; padding-bottom:5px"></div>
+			<a name="usage_keyboard"></a>
+			<h2>Keyboard Mode</h2>
+			<p class="stickynote">To get started with Moom's keyboard mode, first read about Keyboard Settings in the <a href="settings.html">Settings</a> section of help. Those instructions will help you enable keyboard mode, and understand its basic operations.</p>
+			<div style="float:right; padding-left:10px; width:128px"><img src="images/keybezel.png" alt="Keyboard bezel" width="128" height="128"><img src="images/gridbezel.png" alt="Grid bezel" width="128" height="128"></div>
+			<p>To use Moom's keyboard mode, start by pressing the activation keyboard shortcut you defined in the Keyboard tab of Moom's settings panel. When you do, the Moom keyboard control bezel will appear, as seen in the top image at right. This bezel will remain onscreen until either two seconds pass with no input, or you execute an action that you've defined to automatically close the bezel.</p>
+			<p>Once enabled in Settings, you can press the activation keyboard shortcut again while the bezel is already onscreen to switch to Moom's grid-based resizing tool (lower image at right). See the <a href="settings.html#settings_keyboard">Keyboard section</a> of the Settings help for more on keyboard-based grid resizing.</p>
+			<p class="stickynote" style="margin-right:150px">When either the keyboard or grid bezel is onscreen, you can press the comma (,) key for fast access to Moom's Settings window.</p>
+			<p>In addition to the standard actions listed in the Keyboard Settings section of the Settings help, you can use the keyboard for the following operations:</p>
+			<p><b>One-key shortcut custom controls:</b> If you create any single-key shortcuts for custom controls, these controls will only work when the keyboard bezel is onscreen. See the <a href="custom.html#keys">hot keys section</a> of Custom Controls for more information on single-key shortcuts.</p>
+			<p><b>Corner pin, quarter size:</b> To place a window in the corner of a screen at quarter-size, first use the defined <b>Move &amp; Zoom to Half Screen</b> function, then immediately follow that command with another arrow key pointing towards the corner you'd like to use.</p>
+			<p>For example, if you've defined Command plus the arrow keys as your <b>Move &amp; Zoom to Half Screen</b> command, you could pin a window in the lower left corner by first pressing Command-Left Arrow (pin to left edge at half width), then immediately pressing the Down Arrow (with the Command key still held down). Similarly, the upper-right corner would be Command-Right Arrow, Command-Up Arrow.</p>
+			<p><b>Move a Moomed window to another display:</b> When you use the keyboard mode's 'move to other display' command, the chosen window is moved without resizing (when possible). But you can also move already-Moomed windows to other displays.</p>
+			<p>Assume you want to pin a window to the left edge of a display that's to the left of your main display, where the window is currently shown. Activate Moom's keyboard bezel, then press Command-Left Arrow, twice in quick succession. The first press will pin it to the left edge of the current display, and the second will pin it to the left edge of the other monitor.</p>
+			<p class="stickynote">You can position a window anywhere you like on the newly-chosen display by just pressing the proper keyboard shortcuts.<br><br>For instance, first move and zoom a window from the main display to the left-positioned display with Command-Left Arrow twice in quick succession. Then you can move and zoom the window around on that display as you wish, using your defined arrow and modifier key shortcuts.<br><br>If you want the window back on the main display, just press Command-Right Arrow twice in succession.</p>
+			<p>You can also, of course, use any <a href="custom.html">Custom Controls</a> you've created via the keyboard (assuming you've assigned them keyboard shortcuts).</p>
+		
+		<!-- ................................ USAGE - applescript ............ --> 
+		<div style="margin-left:25%; margin-right:25%; padding-top:10px; padding-bottom:5px"><hr></div>
+		<a name="usage_applescript"></a>
+		<h2>AppleScript</h2>
+		<p>Moom includes limited AppleScript support, so that you can activate saved layouts from other programs, or even write your own scripts. At present, Moom supports three basic commands:</p>
+		<p>1) Return a list of saved snapshots:</p>
+		<p><span style="font-family:menlo,monospace"><b>tell</b> <span style="color:blue"><i>application</i></span> "Moom"<br><span style="color:blue"><b>&nbsp;&nbsp;&nbsp;&nbsp;list of snapshots</b></span><br><b>end tell</b></p>
+		
+		<p>2) Activate a saved window layout:</p>
+		<p><span style="font-family:menlo,monospace"><b>tell</b> <span style="color:blue"><i>application</i></span> "Moom"<br>
+		&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue"><b>arrange windows according to snapshot named</b></span> "Snapshot Name"</span><br>
+		<b>end tell</b></p>
+		
+		<p>There's only one changeable value here: replace <span style="font-family:menlo,monospace">Snapshot Name</span> with the name of the saved snapshot you'd like to activate.</p>
+		<p class="stickynote">If you have more than one saved snapshot with the same name, Moom will use the first saved snapshot when called via AppleScript. If you need access to the other saved snapshots, you'll need to first give them unique names within Moom&mdash;simply appending a unique counter digit would work fine, for instance.</p>
+		
+		<p>3) Center the frontmost window, using the "OS X center," which is slightly above geometric center:</p>
+		<p><span style="font-family:menlo,monospace"><b>tell</b> <span style="color:blue"><i>application</i></span> "Moom"<br>
+		&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue"><b>center frontmost window</b></span><br>
+		<b>end tell</b></p>
+		
+		<p>4) Center the frontmost window geometrically, i.e. exactly in the center of the display:</p>
+		<p><span style="font-family:menlo,monospace"><b>tell</b> <span style="color:blue"><i>application</i></span> "Moom"<br>
+		&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue"><b>center frontmost window geometrically</b></span><br>
+		<b>end tell</b></p>		
+		
+		<p>5) Save a window layout, and merge it into the existing named snapshot. The snapshot name is case sensitive, and if it doesn't exist, it will be created.
+		<p><span style="font-family:menlo,monospace"><b>tell</b> <span style="color:blue"><i>application</i></span> "Moom"<br>
+		&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue"><b>save window layout and merge with snapshot </b></span> "Snapshot name"</span><br>
+		<b>end tell</b></p>
+		
+		<p>6) Save a window layout, and replace the existing named snapshot. The snapshot name is case sensitive, and if it doesn't exist, it will be created.
+		<p><span style="font-family:menlo,monospace"><b>tell</b> <span style="color:blue"><i>application</i></span> "Moom"<br>
+		&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:blue"><b>save window layout and replace snapshot </b></span> "Snapshot name"</span><br>
+		<b>end tell</b></p>
+		
+		
+		<p>If you have additional Moom features that you'd like to have scriptable, please let us know by sending an email to info@manytricks.com.
+		</div>
+	</body>
+</html>

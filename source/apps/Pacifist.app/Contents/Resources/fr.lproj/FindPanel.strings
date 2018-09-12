@@ -1,0 +1,15 @@
+
+/* Class = "NSPanel"; title = "Rechercher"; ObjectID = "8"; */
+"8.title" = "Rechercher";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Rechercher la prochaine occurrence de la chaîne"; ObjectID = "29"; */
+"29.ibShadowedToolTip" = "Rechercher la prochaine occurrence de la chaîne";
+
+/* Class = "NSButtonCell"; title = "Rechercher"; ObjectID = "157"; */
+"157.title" = "Rechercher";
+
+/* Class = "NSTextFieldCell"; title = "Rechercher :"; ObjectID = "159"; */
+"159.title" = "Rechercher :";
+
+/* Class = "NSButtonCell"; title = "Annuler"; ObjectID = "161"; */
+"161.title" = "Annuler";

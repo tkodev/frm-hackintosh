@@ -1,0 +1,51 @@
+
+/* Class = "NSPanel"; title = "Software Update Packages"; ObjectID = "4"; */
+"4.title" = "Atualizar os Pacotes de Software";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "11"; */
+"11.headerCell.title" = "Tamanho";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "12"; */
+"12.headerCell.title" = "Nome";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "13"; */
+"13.title" = "Célula de Texto";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "14"; */
+"14.title" = "Célula de Texto";
+
+/* Class = "NSTableColumn"; headerCell.title = "URL"; ObjectID = "37"; */
+"37.headerCell.title" = "URL";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "38"; */
+"38.title" = "Célula de Texto";
+
+/* Class = "NSButtonCell"; title = "Open Selected Packages"; ObjectID = "71"; */
+"71.title" = "Abrir Pacotes Selecionados";
+
+/* Class = "NSTableColumn"; headerCell.title = "Identifier"; ObjectID = "81"; */
+"81.headerCell.title" = "Identificador";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "82"; */
+"82.title" = "Célula de Texto";
+
+/* Class = "NSTableColumn"; headerCell.title = "Post Date"; ObjectID = "87"; */
+"87.headerCell.title" = "Data de Postagem";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "88"; */
+"88.title" = "Célula de Texto";
+
+/* Class = "NSTextFieldCell"; title = "<dl>"; ObjectID = "6Mw-Ig-xSp"; */
+"6Mw-Ig-xSp.title" = "<dl>";
+
+/* Class = "NSTextFieldCell"; title = "<dl>"; ObjectID = "CkP-Uo-fEB"; */
+"CkP-Uo-fEB.title" = "<dl>";
+
+/* Class = "NSTextFieldCell"; title = "<don't localize>"; ObjectID = "Lze-2i-fwh"; */
+"Lze-2i-fwh.title" = "<don't localize>";
+
+/* Class = "NSTextFieldCell"; title = "<don't localize>"; ObjectID = "bVc-Bl-fzM"; */
+"bVc-Bl-fzM.title" = "<don't localize>";
+
+/* Class = "NSTextFieldCell"; title = "<don't localize>"; ObjectID = "urT-dO-DRm"; */
+"urT-dO-DRm.title" = "<don't localize>";

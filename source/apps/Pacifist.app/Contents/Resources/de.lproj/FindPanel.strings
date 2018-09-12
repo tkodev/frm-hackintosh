@@ -1,0 +1,15 @@
+﻿
+/* Class = "NSPanel"; title = "Find"; ObjectID = "8"; */
+"8.title" = "Suchen";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Find next occurrence of the Find string"; ObjectID = "29"; */
+"29.ibShadowedToolTip" = "Nächstes Vorkommen des Suchbegriffs suchen";
+
+/* Class = "NSButtonCell"; title = "Find"; ObjectID = "157"; */
+"157.title" = "Suchen";
+
+/* Class = "NSTextFieldCell"; title = "Find:"; ObjectID = "159"; */
+"159.title" = "Suchen:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "161"; */
+"161.title" = "Abbrechen";

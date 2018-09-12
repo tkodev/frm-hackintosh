@@ -1,0 +1,12 @@
+
+/* Class = "NSWindow"; title = "验证报告"; ObjectID = "5"; */
+"5.title" = "验证报告";
+
+/* Class = "NSButtonCell"; title = "存储…"; ObjectID = "38"; */
+"38.title" = "存储…";
+
+/* Class = "NSButtonCell"; title = "打印…"; ObjectID = "39"; */
+"39.title" = "打印…";
+
+/* Class = "NSButtonCell"; title = "关闭"; ObjectID = "40"; */
+"40.title" = "关闭";

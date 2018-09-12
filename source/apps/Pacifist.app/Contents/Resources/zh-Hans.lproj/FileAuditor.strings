@@ -1,0 +1,57 @@
+
+/* Class = "NSPanel"; title = "Receipt Search"; ObjectID = "1"; */
+"1.title" = "回执搜索";
+
+/* Class = "NSButtonCell"; title = "Search"; ObjectID = "119"; */
+"119.title" = "搜索";
+
+/* Class = "NSWindow"; title = "Search Results"; ObjectID = "123"; */
+"123.title" = "搜索结果";
+
+/* Class = "NSTextFieldCell"; title = "Search Results:"; ObjectID = "135"; */
+"135.title" = "搜索结果：";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "144"; */
+"144.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "<do not localize>"; ObjectID = "146"; */
+"146.title" = "<do not localize>";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "152"; */
+"152.headerCell.title" = "名称";
+
+/* Class = "NSTableColumn"; headerCell.title = "Identifier"; ObjectID = "153"; */
+"153.headerCell.title" = "标识符";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "154"; */
+"154.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "155"; */
+"155.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "<do not localize>"; ObjectID = "170"; */
+"170.title" = "<do not localize>";
+
+/* Class = "NSButtonCell"; title = "Stop"; ObjectID = "171"; */
+"171.title" = "停止";
+
+/* Class = "NSButtonCell"; title = "Extract Selected Files"; ObjectID = "191"; */
+"191.title" = "提取所选文件";
+
+/* Class = "IBBindingConnection"; ibShadowedDisplayPattern = "Receipts containing %{value1}@:"; ObjectID = "222"; */
+"222.ibShadowedDisplayPattern" = "回执包含 %{value1}@：";
+
+/* Class = "NSButtonCell"; title = "Case Sensitive"; ObjectID = "228"; */
+"228.title" = "区分大小写";
+
+/* Class = "NSButtonCell"; title = "View Selected Receipts"; ObjectID = "235"; */
+"235.title" = "查看所选回执";
+
+/* Class = "NSTextFieldCell"; title = "<don't localize>"; ObjectID = "BFK-F4-oYC"; */
+"BFK-F4-oYC.title" = "<don't localize>";
+
+/* Class = "NSTextFieldCell"; title = "<don't localize>"; ObjectID = "Ub4-JY-Fec"; */
+"Ub4-JY-Fec.title" = "<don't localize>";
+
+/* Class = "NSTextFieldCell"; title = "<don't localize>"; ObjectID = "kRJ-P4-IYd"; */
+"kRJ-P4-IYd.title" = "<don't localize>";

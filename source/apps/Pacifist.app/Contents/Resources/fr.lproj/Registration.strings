@@ -1,0 +1,31 @@
+
+/* Class = "NSButtonCell"; title = "Enter Code…"; ObjectID = "109"; */
+"109.title" = "Saisir le code…";
+
+/* Class = "NSButtonCell"; title = "Not Yet"; ObjectID = "110"; */
+"110.title" = "Plus tard";
+
+/* Class = "NSButtonCell"; title = "Register…"; ObjectID = "111"; */
+"111.title" = "S’enregistrer…";
+
+/* Class = "NSTextFieldCell"; title = "Thank you for downloading Pacifist!"; ObjectID = "113"; */
+"113.title" = "Merci d’avoir téléchargé Pacifist !";
+
+/* Class = "NSTextFieldCell"; title = "Pacifist is shareware. You are welcome to try it at no charge, but if you find it useful, you are encouraged to register the program for $20. Registration is easy, and will disable this annoying message and its associated startup delay.\n\nI have spent a lot of time developing this application, in an effort to make it the best utility possible for the purpose it is intended to serve. Many more features are planned for future releases; your support will enable them to be realized. Please support shareware by registering today!"; ObjectID = "114"; */
+"114.title" = "Pacifist est un partagiciel. N’hésitez pas à l’essayer gratuitement. Si vous le trouvez utile, vous êtes invité à enregistrer le programme au coût de 20 $ US. L’enregistrement est facile, et désactivera ce message et son délai de démarrage.\n\nJ’ai passé beaucoup de temps à développer cette application. Je n’ai pas ménagé mes efforts pour en faire le meilleur produit possible. Plusieurs nouvelles fonctions sont prévues pour de futures versions : votre contribution leur permettra d’être réalisées. Merci de supporter ce partagiciel en vous enregistrant aujourd’hui !";
+
+/* Class = "NSTextFieldCell"; title = "Please enter your name and registration code in the fields below:"; ObjectID = "116"; */
+"116.title" = "Veuillez saisir votre nom et code d’enregistrement
+dans les champs ci-dessous :";
+
+/* Class = "NSButtonCell"; title = "Enter"; ObjectID = "117"; */
+"117.title" = "Saisir";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "118"; */
+"118.title" = "Annuler";
+
+/* Class = "NSTextFieldCell"; title = "Code:"; ObjectID = "cI2-2f-6ix"; */
+"cI2-2f-6ix.title" = "Code :";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "oes-az-jAl"; */
+"oes-az-jAl.title" = "Nom :";

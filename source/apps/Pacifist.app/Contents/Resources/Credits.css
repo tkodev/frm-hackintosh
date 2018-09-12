@@ -1,0 +1,21 @@
+body {
+    font-family: "Helvetica Neue";
+    font-size: 1.15em;
+    margin-top: 0px;
+    padding-top: 0px;
+    background-color: white;
+}
+
+#credits_body {
+
+}
+
+.credit_header {
+    padding-top: 0px;
+    margin-top: 0px;
+    font-weight: bold;
+}
+
+.credit_list {
+
+}

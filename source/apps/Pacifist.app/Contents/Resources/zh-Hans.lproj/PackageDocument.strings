@@ -1,0 +1,204 @@
+
+/* Class = "PackageDocumentWindow"; title = "Window"; ObjectID = "21"; */
+"21.title" = "窗口";
+
+/* Class = "NSTableColumn"; headerCell.title = "Search Results"; ObjectID = "107"; */
+"107.headerCell.title" = "搜索结果";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "188"; */
+"188.title" = "菜单";
+
+/* Class = "NSMenuItem"; title = "Install to Default Location"; ObjectID = "189"; */
+"189.title" = "安装到默认位置";
+
+/* Class = "NSMenuItem"; title = "Extract to Custom Location…"; ObjectID = "190"; */
+"190.title" = "提取到自定义位置…";
+
+/* Class = "NSMenuItem"; title = "Show Info"; ObjectID = "194"; */
+"194.title" = "显示简介";
+
+/* Class = "NSMenuItem"; title = "Verify…"; ObjectID = "198"; */
+"198.title" = "验证…";
+
+/* Class = "NSMenuItem"; title = "Install to Other Disk…"; ObjectID = "201"; */
+"201.title" = "安装到其它磁盘…";
+
+/* Class = "NSTextFieldCell"; title = "Package Install Directory:"; ObjectID = "1269"; */
+"1269.title" = "软件包安装目录：";
+
+/* Class = "NSTextFieldCell"; title = "Size compressed: uncompressed:"; ObjectID = "1270"; */
+"1270.title" = "压缩后大小：未压缩：";
+
+/* Class = "NSTextFieldCell"; title = "<do not localize: size>"; ObjectID = "1271"; */
+"1271.title" = "所选文件大小：0.0 字节";
+
+/* Class = "NSTextFieldCell"; title = "Package does not require authentication"; ObjectID = "1272"; */
+"1272.title" = "软件包不需要鉴定";
+
+/* Class = "NSTextFieldCell"; title = "Extracting Files…"; ObjectID = "1275"; */
+"1275.title" = "正在提取文件…";
+
+/* Class = "NSButtonCell"; title = "Stop"; ObjectID = "1276"; */
+"1276.title" = "停止";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1306"; */
+"1306.title" = "Window";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "1313"; */
+"1313.headerCell.title" = "名称";
+
+/* Class = "NSTableColumn"; headerCell.title = "Bundle Identifier"; ObjectID = "1314"; */
+"1314.headerCell.title" = "捆绑包标识符";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1315"; */
+"1315.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1316"; */
+"1316.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "1323"; */
+"1323.headerCell.title" = "大小";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1324"; */
+"1324.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "1331"; */
+"1331.title" = "提取…";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1333"; */
+"1333.title" = "取消";
+
+/* Class = "NSToolbarItem"; label = "Install"; ObjectID = "1399"; */
+"1399.label" = "安装";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Install to Default Locations"; ObjectID = "1399"; */
+"1399.paletteLabel" = "安装到默认位置";
+
+/* Class = "NSToolbarItem"; toolTip = "Install files to the locations specified in the package"; ObjectID = "1399"; */
+"1399.toolTip" = "安装文件到软件包指定位置";
+
+/* Class = "NSToolbarItem"; label = "Install to Disk…"; ObjectID = "1400"; */
+"1400.label" = "安装到磁盘…";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Install to Other Disk"; ObjectID = "1400"; */
+"1400.paletteLabel" = "安装到其它磁盘";
+
+/* Class = "NSToolbarItem"; toolTip = "Install files to a disk other than the boot disk"; ObjectID = "1400"; */
+"1400.toolTip" = "安装文件到启动盘之外的磁盘";
+
+/* Class = "NSToolbarItem"; label = "Extract To…"; ObjectID = "1403"; */
+"1403.label" = "提取到…";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Extract to Custom Location"; ObjectID = "1403"; */
+"1403.paletteLabel" = "提取到自定义位置";
+
+/* Class = "NSToolbarItem"; toolTip = "Extract files to a location of your choosing"; ObjectID = "1403"; */
+"1403.toolTip" = "提取文件到您选取的位置";
+
+/* Class = "NSToolbarItem"; label = "Verify"; ObjectID = "1406"; */
+"1406.label" = "验证";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Verify Files"; ObjectID = "1406"; */
+"1406.paletteLabel" = "验证文件";
+
+/* Class = "NSToolbarItem"; toolTip = "Check files on the hard disk against files in the package and report differences"; ObjectID = "1406"; */
+"1406.toolTip" = "检查硬盘上的文件和软件包内文件并报告不同之处";
+
+/* Class = "NSToolbarItem"; label = "Show Info"; ObjectID = "1409"; */
+"1409.label" = "显示简介";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Show Info"; ObjectID = "1409"; */
+"1409.paletteLabel" = "显示简介";
+
+/* Class = "NSToolbarItem"; toolTip = "Show inspector for selected items"; ObjectID = "1409"; */
+"1409.toolTip" = "显示所选项目的检查器";
+
+/* Class = "NSToolbarItem"; label = "Find"; ObjectID = "1417"; */
+"1417.label" = "查找";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Find"; ObjectID = "1417"; */
+"1417.paletteLabel" = "查找";
+
+/* Class = "NSToolbarItem"; toolTip = "Search for files in a package"; ObjectID = "1417"; */
+"1417.toolTip" = "搜索文件的软件包";
+
+/* Class = "NSToolbarItem"; label = "View Files"; ObjectID = "1421"; */
+"1421.label" = "查看文件";
+
+/* Class = "NSToolbarItem"; paletteLabel = "View Selected Files"; ObjectID = "1421"; */
+"1421.paletteLabel" = "查看文件";
+
+/* Class = "NSToolbarItem"; toolTip = "View selected files"; ObjectID = "1421"; */
+"1421.toolTip" = "查看文件";
+
+/* Class = "NSToolbarItem"; label = "Extract Subpackage"; ObjectID = "1434"; */
+"1434.label" = "提取子软件包";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Extract Subpackages"; ObjectID = "1434"; */
+"1434.paletteLabel" = "提取子软件包";
+
+/* Class = "NSToolbarItem"; toolTip = "Extract subpackages contained within the package"; ObjectID = "1434"; */
+"1434.toolTip" = "提取软件包内含的子软件包";
+
+/* Class = "NSToolbarItem"; label = "Print"; ObjectID = "1439"; */
+"1439.label" = "打印";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Print"; ObjectID = "1439"; */
+"1439.paletteLabel" = "打印";
+
+/* Class = "NSToolbarItem"; toolTip = "Print"; ObjectID = "1439"; */
+"1439.toolTip" = "打印";
+
+/* Class = "NSToolbarItem"; label = "Save File Listing"; ObjectID = "1443"; */
+"1443.label" = "存储文件列表";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Save File Listing"; ObjectID = "1443"; */
+"1443.paletteLabel" = "存储文件列表";
+
+/* Class = "NSToolbarItem"; toolTip = "Save File Listing"; ObjectID = "1443"; */
+"1443.toolTip" = "存储文件列表";
+
+/* Class = "NSPanel"; title = "Find"; ObjectID = "5JR-Uv-Bje"; */
+"5JR-Uv-Bje.title" = "查找";
+
+/* Class = "NSTextFieldCell"; title = "<don't localize>"; ObjectID = "5uY-Rb-LJ3"; */
+"5uY-Rb-LJ3.title" = "<don't localize>";
+
+/* Class = "NSTextFieldCell"; title = "Find:"; ObjectID = "A84-Ui-qK4"; */
+"A84-Ui-qK4.title" = "查找:";
+
+/* Class = "IBBindingConnection"; ibShadowedDisplayPattern = "Size of selected files: %{value1}@"; ObjectID = "CqM-gM-rnx"; */
+"CqM-gM-rnx.ibShadowedDisplayPattern" = "选定文件大小: %{value1}@";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "D15-pd-XAF"; */
+"D15-pd-XAF.title" = "取消";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "DJw-OP-zcD"; */
+"DJw-OP-zcD.title" = "Box";
+
+/* Class = "NSSegmentedCell"; HBg-m5-LQp.ibShadowedLabels[0] = "Contents"; ObjectID = "HBg-m5-LQp"; */
+"HBg-m5-LQp.ibShadowedLabels[0]" = "软件包内容";
+
+/* Class = "NSSegmentedCell"; HBg-m5-LQp.ibShadowedLabels[1] = "Resources"; ObjectID = "HBg-m5-LQp"; */
+"HBg-m5-LQp.ibShadowedLabels[1]" = "资源";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "OLM-NB-2kN"; */
+"OLM-NB-2kN.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Find"; ObjectID = "Y4v-Sb-zHT"; */
+"Y4v-Sb-zHT.title" = "查找";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Find next occurrence of the Find string"; ObjectID = "oKj-NC-pUA"; */
+"oKj-NC-pUA.ibShadowedToolTip" = "查找检索字串的下个位置";
+
+/* Class = "NSTextFieldCell"; title = "<don't localize>"; ObjectID = "qEu-CG-8nJ"; */
+"qEu-CG-8nJ.title" = "<don't localize>";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "tooltip"; ObjectID = "vis-js-B1i"; */
+"vis-js-B1i.ibShadowedToolTip" = "tooltip";
+
+/* Class = "NSTextFieldCell"; title = "<don't localize>"; ObjectID = "wuo-Fn-fW2"; */
+"wuo-Fn-fW2.title" = "<don't localize>";
+
+/* Class = "NSTextFieldCell"; title = "<dl>"; ObjectID = "z03-lb-MgJ"; */
+"z03-lb-MgJ.title" = "<dl>";

@@ -1,0 +1,30 @@
+
+/* Class = "NSButtonCell"; title = "Enter Code…"; ObjectID = "109"; */
+"109.title" = "输入号码…";
+
+/* Class = "NSButtonCell"; title = "Not Yet"; ObjectID = "110"; */
+"110.title" = "稍后再说";
+
+/* Class = "NSButtonCell"; title = "Register…"; ObjectID = "111"; */
+"111.title" = "注册…";
+
+/* Class = "NSTextFieldCell"; title = "Thank you for downloading Pacifist!"; ObjectID = "113"; */
+"113.title" = "感谢您下载 Pacifist！";
+
+/* Class = "NSTextFieldCell"; title = "Pacifist is shareware. You are welcome to try it at no charge, but if you find it useful, you are encouraged to register the program for $20. Registration is easy, and will disable this annoying message and its associated startup delay.\n\nI have spent a lot of time developing this application, in an effort to make it the best utility possible for the purpose it is intended to serve. Many more features are planned for future releases; your support will enable them to be realized. Please support shareware by registering today!"; ObjectID = "114"; */
+"114.title" = "Pacifist 是共享软件。欢迎您免费试用，但如果您觉得它有用，推荐您花 20 美金注册该程序。注册过程非常简单，并可禁止在启动时弹出这个烦人的消息。\n\n为了将它做成最好的实用工具，我花费了大量时间开发这个软件。未来还将有许多的功能在计划之中；您的支持将会使它们更快实现。请现在就注册，支持共享软件的发展！";
+
+/* Class = "NSTextFieldCell"; title = "Please enter your name and registration code in the fields below:"; ObjectID = "116"; */
+"116.title" = "请在下面的字段处输入您的名称与注册号码:";
+
+/* Class = "NSButtonCell"; title = "Enter"; ObjectID = "117"; */
+"117.title" = "输入";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "118"; */
+"118.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Code:"; ObjectID = "cI2-2f-6ix"; */
+"cI2-2f-6ix.title" = "号码:";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "oes-az-jAl"; */
+"oes-az-jAl.title" = "名称:";

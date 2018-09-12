@@ -1,0 +1,47 @@
+body {
+    font-family: "Helvetica Neue";
+    font-size: 1.15em;
+    margin-top: 0px;
+    padding-top: 0px;
+    background-color: white;
+}
+
+#license_body {
+
+}
+
+h1 {
+    font-size: x-large;
+}
+
+h2 {
+    font-size: large;
+}
+
+strong {
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+em {
+    color: black;
+    font-weight: bold;
+}
+
+.license_text {
+    font-size:medium;
+}
+
+.license_disclaimers {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.terms_ol {
+
+}
+
+.terms_ul {
+
+}
