@@ -42,3 +42,4 @@ Add HD4600 platform ID
 - `https://hackintosher.com/guides/macos-high-sierra-hackintosh-install-clover-walkthrough/`
 - `hackintosher.com - macos-high-sierra-hackintosh-install-clover-walkthrough.pdf`
 - Boot from install usb, format drive HFS+Journalled + GUID, Install Mac OS, Reboot from install usb, perform edits to xml to skip APFS, reboot to install usb but choose mac partition, select same partition if installer reboots.
+- Alternatively, clone the drive after an APFS install into HFS+ using CCC. Might encounter install bugs however.
