@@ -298,6 +298,8 @@
 		</dict>
 		<key>NvidiaSingle</key>
 		<false/>
+		<key>ig-platform-id</key>
+		<string>0x0d220003</string>
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
