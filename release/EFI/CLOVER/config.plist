@@ -532,10 +532,50 @@
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
+		<key>BiosReleaseDate</key>
+		<string>04/11/2018</string>
+		<key>BiosVendor</key>
+		<string>Apple Inc.</string>
+		<key>BiosVersion</key>
+		<string>IM151.88Z.0217.B00.1804111039</string>
+		<key>Board-ID</key>
+		<string>Mac-42FD25EABCABB274</string>
+		<key>BoardManufacturer</key>
+		<string>Apple Inc.</string>
+		<key>BoardSerialNumber</key>
+		<string>C02431501GUF502A8</string>
+		<key>BoardType</key>
+		<integer>10</integer>
+		<key>BoardVersion</key>
+		<string>1.0</string>
+		<key>ChassisAssetTag</key>
+		<string>iMac-Aluminum</string>
+		<key>ChassisManufacturer</key>
+		<string>Apple Inc.</string>
+		<key>ChassisType</key>
+		<string>0x0D</string>
+		<key>Family</key>
+		<string>iMac</string>
+		<key>FirmwareFeatures</key>
+		<string>0xF80FE137</string>
+		<key>FirmwareFeaturesMask</key>
+		<string>0xFF1FFF3F</string>
+		<key>LocationInChassis</key>
+		<string>Part Component</string>
+		<key>Manufacturer</key>
+		<string>Apple Inc.</string>
 		<key>Mobile</key>
 		<false/>
-		<key>Trust</key>
-		<false/>
+		<key>PlatformFeature</key>
+		<string>0x01</string>
+		<key>ProductName</key>
+		<string>iMac15,1</string>
+		<key>SerialNumber</key>
+		<string>C02N5XY8FY10</string>
+		<key>SmUUID</key>
+		<string>6B7DE983-E80F-4D7F-B31C-9E33EA83BBA8</string>
+		<key>Version</key>
+		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>

@@ -31,3 +31,6 @@ IO SerialPort = Not found
 # WIFI 
 - `https://www.tonymacx86.com/threads/broadcom-wifi-bluetooth-guide.242423/`
 - `/guides/tonymacx86.com - broadcom-wifi-bluetooth-guide.pdf`
+
+# Smbios
+Add entire smbios dict
