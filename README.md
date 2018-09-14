@@ -34,3 +34,6 @@ IO SerialPort = Not found
 
 # Smbios
 Add entire smbios dict
+
+# Graphics
+Add HD4600 platform ID
