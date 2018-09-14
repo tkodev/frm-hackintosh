@@ -34,6 +34,11 @@ Add entire smbios dict
 - `/guides/tonymacx86.com - solved-issue-with-hd-4600.pdf`
 - Add HD4600 platform ID
 
+# Unused Kext
+- Removed `VoodooPS2Controller.kext`
+- Removed `AtherosE2200Ethernet.kext`
+- Removed `RealtekRTL8111.kext`
+
 # High Sierra Install Guide
 - `https://hackintosher.com/guides/macos-high-sierra-hackintosh-install-clover-walkthrough/`
 - `/guides/hackintosher.com - macos-high-sierra-hackintosh-install-clover-walkthrough.pdf`
