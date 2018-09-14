@@ -1,7 +1,7 @@
 # Specs
 MB: Asus Z97i Plus
 CPU: Intel i5 4690k HD 4600
-Wifi: AW-CE123H Card (Broadcom BCM94352HMB) - BCM2070A0 Chip (BCM20702a1_001.002.014.1443.1469_v5565)
+Wifi / BT: AW-CE123H Card (Broadcom BCM94352HMB) - BCM2070A0 Chip (BCM20702a1_001.002.014.1443.1469_v5565)
 
 # Bios
 - `https://hackintosher.com/guides/high-sierra-install-full-guide/`
@@ -21,6 +21,12 @@ Wifi: AW-CE123H Card (Broadcom BCM94352HMB) - BCM2070A0 Chip (BCM20702a1_001.002
 - Power ON by PCIE = Disabled
 - XHCI Hand Off = Not found
 - IO SerialPort = Not found
+
+# Boot
+- `https://hackintosher.com/guides/high-sierra-install-full-guide/`
+- `/guides/hackintosher.com - high-sierra-install-full-guide`
+darkwake = darkwake -> darkwake=1
+dart = unchecked
 
 # WIFI 
 - `https://www.tonymacx86.com/threads/broadcom-wifi-bluetooth-guide.242423/`
