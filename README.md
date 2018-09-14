@@ -6,8 +6,6 @@ Wifi: AW-CE123H Card (Broadcom BCM94352HMB) - BCM2070A0 Chip (BCM20702a1_001.002
 # Bios
 - `https://hackintosher.com/guides/high-sierra-install-full-guide/`
 - `/guides/hackintosher.com - high-sierra-install-full-guide`
-
-## Changed
 - Intel Virtualization Technology = Disabled -> Enabled
 - Primary Display = Auto -> CPU Graphics
 - Legacy USB = Enabled -> Auto
@@ -16,17 +14,13 @@ Wifi: AW-CE123H Card (Broadcom BCM94352HMB) - BCM2070A0 Chip (BCM20702a1_001.002
   - PS/2 Keyboard and Mouse = Auto -> Disabled
 - Other OS = Windows -> Other OS
 - AI Overclock Tuner = Auto -> XMP
-
-## Unchanged
 - VT-d = Disabled
 - Intel xHCI Mode = Smart Auto
 - EHCI Hand Off = Disabled
 - Network Stack = Disabled
 - Power ON by PCIE = Disabled
-
-## Not found
-XHCI Hand Off = Not found
-IO SerialPort = Not found
+- XHCI Hand Off = Not found
+- IO SerialPort = Not found
 
 # WIFI 
 - `https://www.tonymacx86.com/threads/broadcom-wifi-bluetooth-guide.242423/`
@@ -36,10 +30,12 @@ IO SerialPort = Not found
 Add entire smbios dict
 
 # Graphics
-Add HD4600 platform ID
+- `https://www.tonymacx86.com/threads/solved-issue-with-hd-4600-on-high-sierra-10-13-2.244130/`
+- `/guides/tonymacx86.com - solved-issue-with-hd-4600.pdf`
+- Add HD4600 platform ID
 
 # High Sierra Install Guide
 - `https://hackintosher.com/guides/macos-high-sierra-hackintosh-install-clover-walkthrough/`
-- `hackintosher.com - macos-high-sierra-hackintosh-install-clover-walkthrough.pdf`
+- `/guides/hackintosher.com - macos-high-sierra-hackintosh-install-clover-walkthrough.pdf`
 - Boot from install usb, format drive HFS+Journalled + GUID, Install Mac OS, Reboot from install usb, perform edits to xml to skip APFS, reboot to install usb but choose mac partition, select same partition if installer reboots.
 - Alternatively, clone the drive after an APFS install into HFS+ using CCC. Might encounter install bugs however.
