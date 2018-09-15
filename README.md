@@ -37,7 +37,8 @@ Audio: ALC892
 - System Prefs > Energy Saver > Enable Power Nap = checked -> unchecked
 
 # Smbios
-Add entire smbios dict - Generated `iMac14,2` via Clover Configurator
+- Add entire smbios dict - Generated `iMac14,2` via Clover Configurator
+- Ensure serial number is invalid for iMessage
 
 # Graphics
 - `https://www.tonymacx86.com/threads/solved-issue-with-hd-4600-on-high-sierra-10-13-2.244130/`
