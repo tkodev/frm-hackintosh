@@ -1,151 +1,0 @@
-bplist00ßw	
- !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíî_%@ Size: %@ Available Space: %@_7This is the startup partition. You can\U2019t erase it._D
-This disk reports S.M.A.R.T. errors and can\U2019t be partitioned.
-_0The selected partition will be created.
-Size: %@_˜
-WARNING: This disk appears to be set up for Boot Camp. If you partition this disk, you may not be able to use it to start up your computer in Windows.
-_bThe disk selected is a RAID set. A RAID set can\U2019t be partitioned.
-Please select another disk._<
-Changing a RAID partition may leave the RAID set unusable.
-_#
-These partitions will be resized:
-_?Partition map scheme can\U2019t be changed on the startup disk._/This partition can\U2019t be modified.
-Size: %@_=Are you sure you want to remove the partition \U201C%@\U201D?_YPartitioning this disk will change some of the partitions. No partitions will be erased.
-_"	%@ partitions will not be changed_UAre you sure you want to remove the partitions \U201C%1$@\U201D and \U201C%2$@\U201D?_"		Partition does not already exist_Split partition_œ
-WARNING: This disk is an iPod. If you partition it, you may not be able to use all its features. To erase the data on your iPod, use iTunes to restore it.
-_	%@ partitions will be removed_*Could not unmount partition to be deleted._hThere are unsaved changes to the partition settings of this disk.
-
-Are you sure you want to switch tabs?_7Preparing to remove partition from disk: \U201C%@\U201D_		Do not erase contents_'Resize LVG lookup failed with error: %d_RThis partition contains a locked disk and can not be resized until it is unlocked._iThere are unsaved changes to the partition settings of this disk.
-
-Are you sure you want to switch disks?_˜There are unsaved changes to the partition settings of this disk. Closing the window will lose your changes.
-
-Are you sure you want to close the window?_‹The disk selected is part of a RAID set. This disk can\U2019t be partitioned until separated from the RAID set.
-Please select another disk._#Could not find partition to delete.]	Partition %@_A
-* Denotes partition will be smaller than view appears in window._Remove partitions_Error with partition: %@_hAre you sure you want to remove the partitions \U201C%1$@,\U201D \U201C%2$@,\U201D and \U201C%3$@\U201D?_Split partition \U201C%@\U201DVCancel_Preparing to remove partitions_Q
-* This partition is not drawn to scale. It\U2019s smaller than it appears here.
-_Partition complete._		Requested	: %@_	Partition Scheme: %@_Preparing to partition disk_	No partitions will be created_%Resize failed to start with error: %d_8Preparing to remove partitions from disk: \U201C%@\U201D_(Failed to remove the disk with error: %d_G
-The full size of the Fusion Drive is not available for repartitioning._Remove partition \U201C%@\U201D]%@ Partitions_m
-WARNING: All data in the RAID set \U201C%@\U201D may be deleted, because this disk contains a member of it.
-_cAre you sure you want to remove the partitions \U201C%1$@,\U201D \U201C%2$@,\U201D and %3$@ others?_
-This partition will be added:
-_Partition failed_!
-This partition will be resized:
-_	%@ partition will be removed_WThe size of the selected partition will change, but the partition won\U2019t be erased.[Untitled %@_‘To erase and partition the selected disk, choose a layout from the Partition Layout pop-up menu, set options for each partition, and click Apply._		File system	: %@_@You may only split this partition into two. To do this, click +.YPartition_Preparing to remove partition_:
-This disk is not writable and can\U2019t be partitioned.
-_'The selected partition will be created.T%@ 1_/
-This disk is too small to contain partitions.
-_3This partition will be left as free space.
-Size: %@_&
-This partition won\U2019t be erased:
-_+Preparing to partition disk: \U201C%@\U201D_		Name		: \U201C%@\U201D_		Contents will be erased_‘Partition map scheme can\U2019t be changed when valid partitions exist. Remove all the disks partitions and then change the partition map scheme._XPartitioning this disk will change one of the partitions. No partitions will be erased.
-WCurrentT%@ 2_{
-This disk appears to be partitioned for Boot Camp. Changing the partition map may make this disk unbootable using Windows._Partition failed for disk %@ %@_&This partition can\U2019t be modified._TThis is the startup partition. You can\U2019t erase it.
-Size: %@
-Available space: %@_	%@ partition will be created_Remove partition_YPartitioning this disk will delete all the data from some of the partitions on the disk.
-_*
-The startup disk can\U2019t be modified.
-_*This partition will be left as free space._JThe selected partition won\U2019t be changed.
-Size: %@
-Available space: %@_(
-These partitions won\U2019t be erased:
-_Partition error occurred._TClick Apply to apply changes. To make more changes you must first apply this change._çTo erase and partition the selected disk, choose a layout from the Partition Layout pop-up menu, set options for each partition, and click Apply.
-
-To resize a partition on the selected disk, drag its resize control and click Apply._"
-These partitions will be erased:
-^Ejecting disks_>Partitioning this disk will delete all the data on this disk.
-\		Size		: %@_!
-These partitions will be added:
-_5Partition failed: could not build valid partition mapVRemove_		Partition already exists_		Start Loc	: %@_NYou may only merge this partition with the one before it. To do this, click -._	%@ partitions will be created_There are unsaved changes to the partition settings of this disk. Quitting Disk Utility will lose your changes.
-
-Are you sure you want to quit?_Add new partition_@Could not find partition to expand, first partition on the disk?_D
-This disk contains the startup disk and can\U2019t be partitioned.
-[1 Partition_!	%@ partition will not be changed_$Reformat and repartition your drives_+Select a single disk in order to set it up._ıTo erase and partition the selected disk, choose a layout from the Partition Layout pop-up menu, set options for each partition, and click Apply.
-
-You can\U2019t resize the partitions on this disk because it uses the Master Boot Record partition scheme._No partition selected_-
-No other changes to your disk will be made.
-_tThe size of the selected partition will change, but the partition won\U2019t be erased.
-Size: %@
-Available space: %@_(Can't shrink any disk by that amount: %d_ 
-This partition will be erased:
-_&Resize LV lookup failed with error: %d_;Are you sure you want to partition the disk \U201C%@\U201D?_-The selected partition won\U2019t be changed._Disk Resize Control_$Partition failed with the error:
-
-%@_{
-Disk Utility cannot modify this disk because it contains CoreStorage physical volumes. Use command line diskutil instead.
-_%%@ Grootte: %@ Beschikbare ruimte: %@_3Dit is de opstartpartitie. Deze kunt u niet wissen._a
-Deze schijf heeft S.M.A.R.T.-fouten gerapporteerd en kan niet in partities kan worden verdeeld.
-_7De geselecteerde partitie wordt aangemaakt.
-Grootte: %@_·
-WAARSCHUWING: Deze schijf lijkt te zijn geconfigureerd voor Boot Camp. Als u deze schijf partitioneert, kunt u de schijf mogelijk niet meer gebruiken voor het opstarten met Windows.
-_yDe geselecteerde schijf is een RAID-set. RAID-sets kunnen niet in partities worden verdeeld. Selecteer een andere schijf._U
-Als u een RAID-partitie wijzigt, is het mogelijk dat de RAID-set onbruikbaar wordt.
-_7
-De grootte van de volgende partities wordt gewijzigd:
-_IDe partitieschema-indeling op de opstartschijf kan niet worden gewijzigd._4Deze partitie kan niet worden gewijzigd.
-Grootte: %@_5Weet u zeker dat u de partitie '%@' wilt verwijderen?_nAls u deze schijf in partities verdeelt, worden sommige partities gewijzigd. Er worden geen partities gewist.
-_#	%@ partities worden niet gewijzigd_BWeet u zeker dat u de partities '%1$@' en '%2$@' wilt verwijderen?_		Partitie bestaat nog niet_Splits partitie_Ï
-WAARSCHUWING: Deze schijf is een iPod. Als u deze schijf partitioneert, kunnen bepaalde iPod-functies mogelijk niet meer worden gebruikt. U kunt de gegevens op uw iPod wissen en met iTunes weer herstellen.
-_	%@ partities worden verwijderd_6Te verwijderen partitie kan niet worden gedeactiveerd._~Niet alle wijzigingen in de partitie-instellingen van deze schijf zijn bewaard.
-
-Weet u zeker dat u van tabblad wilt wisselen?_6Verwijderen van partitie van schijf voorbereiden: '%@'_		Wis inhoud niet_:LVG vergroten/verkleinen - zoeken mislukt vanwege fout: %d_sDeze partitie bevat een beveiligde schijf en kan pas worden vergroot of verkleind nadat deze schijf is ontgrendeld._}Niet alle wijzigingen in de partitie-instellingen van deze schijf zijn bewaard.
-
-Weet u zeker dat u van schijf wilt wisselen?_´Niet alle wijzigingen in de partitie-instellingen van deze schijf zijn bewaard. Als u het venster sluit, gaan de wijzigingen verloren.
-
-Weet u zeker dat u het venster wilt sluiten?_ªDe geselecteerde schijf maakt deel uit van een RAID-set. U kunt de schijf pas in partities verdelen nadat deze is verwijderd uit de RAID-set. Selecteer een andere schijf._&Te verwijderen partitie niet gevonden.\	Partitie %@_O
-* Geeft aan dat de partitie kleiner wordt dan wordt aangegeven in het venster._Verwijder partities_Fout met partitie: %@_JWeet u zeker dat u de partities '%1$@', '%2$@' en '%3$@' wilt verwijderen?_Splits partitie '%@'XAnnuleer_&Verwijderen van partities voorbereiden_g
-* De weergave van deze partitie heeft niet de juiste schaal. De partitie is in werkelijkheid kleiner.
-_Partitionering voltooid._		Gevraagd	: %@_	Partitie-indeling: %@_&Partitioneren van schijf voorbereiden._$	Er worden geen partities aangemaakt_:Beginnen met vergroten/verkleinen mislukt vanwege fout: %d_7Verwijderen van partities van schijf voorbereiden: '%@'_2Schijf kan niet worden verwijderd vanwege fout: %d_R
-De volledige grootte van de Fusion Drive kan niet opnieuw worden gepartitioneerd._Verwijder partitie '%@'\%@ partities_l
-ATTENTIE: Mogelijk worden alle gegevens in de RAID-set '%@' gewist, omdat deze schijf een lid ervan bevat.
-_OWeet u zeker dat u de partities '%1$@', '%2$@' en %3$@ andere wilt verwijderen?_(
-De volgende partitie wordt toegevoegd:
-_Het partitioneren is mislukt_6
-De grootte van de volgende partitie wordt gewijzigd:
-_	%@ partitie wordt verwijderd_]De grootte van de geselecteerde partitie wordt gewijzigd, maar de partitie wordt niet gewist.[Naamloos %@_½Om de geselecteerde schijf te wissen en in partities te verdelen, kiest u een indeling uit het venstermenu 'Partitie-indeling', stelt u opties voor elke partitie in en klikt u op 'Pas toe'._		Bestandssysteem	: %@oH U   m a g   d e z e   p a r t i t i e   a l l e e n   i n   t w e e ë n   s p l i t s e n .   K l i k   o p   +   o m   d i t   t e   d o e n .]Partitioneren_%Verwijderen van partitie voorbereiden_M
-Deze schijf is niet beschrijfbaar en kan niet in partities worden verdeeld.
-_+De geselecteerde partitie wordt aangemaakt.T%@ 1_6
-Deze schijf is te klein om in partities te verdelen.
-_3De ruimte op deze partitie blijft vrij.
-Grootte: %@_)
-De volgende partitie wordt niet gewist:
-_+Partitioneren van schijf voorbereiden: '%@'^		Naam		: '%@'_		Inhoud wordt gewist_§De partitieschema-indeling kan niet worden gewijzigd wanneer er geldige partities zijn. Verwijder alle schijfpartities en wijzig vervolgens de partitieschema-indeling._pAls u deze schijf in partities verdeelt, wordt een van de partities gewijzigd. Er worden geen partities gewist.
-WHuidigeT%@ 2_À
-Deze schijf is waarschijnlijk gepartitioneerd voor Boot Camp. Als u de partitie-indeling wijzigt, is het mogelijk dat deze schijf niet meer voor het opstarten met Windows kan worden gebruikt._'Partitioneren mislukt voor schijf %@ %@_(Deze partitie kan niet worden gewijzigd._VDit is de opstartpartitie. Deze kunt u niet wissen.
-Grootte: %@
-Beschikbare ruimte: %@_	%@ partitie wordt aangemaakt_Verwijder partitie_iAls u deze schijf in partities verdeelt, worden van sommige partities op de schijf alle gegevens gewist.
-_-
-De opstartschijf kan niet worden gewijzigd.
-_'De ruimte op deze partitie blijft vrij._RDe geselecteerde partitie wordt niet gewijzigd.
-Grootte: %@
-Beschikbare ruimte: %@_+
-De volgende partities worden niet gewist:
-_<Er heeft zich een fout tijdens het partitioneren voorgedaan._}Klik op 'Pas toe' om de wijzigingen toe te passen. Om meer wijzigingen aan te brengen, moet u eerst deze wijziging toepassen._=Om de geselecteerde schijf te wissen en in partities te verdelen, kiest u een indeling uit het venstermenu 'Partitie-indeling', stelt u opties voor elke partitie in en klikt u op 'Pas toe'.
-
-Om de grootte van een partitie op de geselecteerde schijf te wijzigen, versleept u de grootteregelaar en klikt u op 'Pas toe'._&
-De volgende partities worden gewist:
-_Schijven verwijderen_UAls u deze schijf in partities verdeelt, worden alle gegevens op deze schijf gewist.
-_		Grootte		: %@_*
-De volgende partities worden toegevoegd:
-_LPartitioneren mislukt: er kan geen geldig partitie-indeling worden opgebouwdYVerwijder_		Partitie bestaat al_		Beginloc.	: %@_XU mag deze partitie alleen samenvoegen met de partitie ervoor. Klik op - om dit te doen._	%@ partities worden aangemaakt_°Niet alle wijzigingen in de partitie-instellingen van deze schijf zijn bewaard. Als u Schijfhulpprogramma stopt, gaan de wijzigingen verloren.
-
-Weet u zeker dat u wilt stoppen?_Voeg nieuwe partitie toe_DUit te breiden partitie niet gevonden, eerste partitie op de schijf?_N
-Deze schijf bevat de opstartschijf en kan niet in partities worden verdeeld.
-Z1 partitie_!	%@ partitie wordt niet gewijzigd_5Schijven opnieuw formatteren en in partities verdeleno- S e l e c t e e r   é é n   s c h i j f   o m   d e z e   t e   c o n f i g u r e r e n ._EOm de geselecteerde schijf te wissen en in partities te verdelen, kiest u een indeling uit het venstermenu 'Partitie-indeling', stelt u opties voor elke partitie in en klikt u op 'Pas toe'.
-U kunt de grootte van de partities op deze schijf niet wijzigen, omdat deze gebruikmaakt van de partitie-indeling 'Hoofdopstartrecord'._Geen partitie geselecteerd_=
-Er worden geen andere wijzigingen op de schijf aangebracht.
-_€De grootte van de geselecteerde partitie wordt gewijzigd, maar de partitie wordt niet gewist.
-Grootte: %@
-Beschikbare ruimte: %@_CEr kan geen enkele schijf met deze hoeveelheid worden verkleind: %d_$
-De volgende partitie wordt gewist:
-_9LV vergroten/verkleinen - zoeken mislukt vanwege fout: %d_=Weet u zeker dat u de schijf '%@' in partities wilt verdelen?_/De geselecteerde partitie wordt niet gewijzigd._%Regelaar voor aanpassen schijfgrootte_-Het partitioneren is mislukt met de fout:
-
-%@_¬
-Deze schijf kan niet worden gewijzigd met Schijfhulpprogramma, omdat de schijf fysieke CoreStorage-volumes bevat. Gebruik in plaats daarvan diskutil via de commandoregel.
-  ùUœÏjÏ4v¨èDiÁæø—¸åPŠ¤Î#*¸Şì	0	D	_	Ê	ë	ò
-
-g
-}
-
-¨
-Æ
-çJu¿áï_Åçú>˜¤8Mšº÷!&X·å °–¸á8XkÇô!n™µö*kxœÔÛø\}#f­¹İ22Jzñ?h¦Öì‘¹ïSGÃU¡Ø§ì 
-  î!!I!Ê"""T"Ê#J$$®$×$ä%6%L%d%±%È%Ñ%ú&d&&‘&ª&Ó&ú'7'q'¦'û(("(‘(ã))-)f)†)æ)ò*²*Ë+^+l+”+ä,,,P,†,²,à,ï--±.$.,.1.ô//I/¢/Â/×0C0s00ò1 1_1ß3 3I3`3¸3Ê3÷4F4P4h4{4Ö4ø5«5Æ66^6i66Å7"8k8ˆ8È9K9‘9¸9ô:4:f::¾             ï              ;m
