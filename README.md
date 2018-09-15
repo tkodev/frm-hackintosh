@@ -27,12 +27,14 @@ Audio: ALC892
 - `https://www.insanelymac.com/forum/topic/323052-guide-sierra-high-sierra-mojave-on-intel-5-6-7-8-9-chipset-series-nehalem-sandybridge-ivybridge-haswell-broadwell/`
 - `insanelymac.com - high-sierra-mojave-on-intel-5-6-7-8-9.pdf`
 - `https://olarila.com/files/Utils/Folders.app.zip`
+- Updated with latest binaries, drivers and tools from `Clover EFI v2.4k_r4586.zip`
 
 # Boot
 - `https://hackintosher.comhigh-sierra-install-full-guide/`
 - `hackintosher.com - high-sierra-install-full-guide.pdf`
-- darkwake = darkwake -> darkwake=1
-- dart = checked -> unchecked
+- Boot > darkwake = darkwake -> darkwake=1
+- Boot > dart = checked -> unchecked
+- Acpi > Plugin Type = blank -> 1
 - System Prefs > Energy Saver > Wake for Ethernet Network access = checked -> unchecked
 - System Prefs > Energy Saver > Enable Power Nap = checked -> unchecked
 

@@ -203,6 +203,8 @@
 			<true/>
 			<key>NoOemTableId</key>
 			<true/>
+			<key>PluginType</key>
+			<string>1</string>
 		</dict>
 		<key>smartUPS</key>
 		<false/>
