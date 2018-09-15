@@ -35,7 +35,8 @@ Audio: ALC892
 - `https://www.tonymacx86.com/threads/broadcom-wifi-bluetooth-guide.242423/`
 - `/guides/tonymacx86.com - broadcom-wifi-bluetooth-guide.pdf`
 - Added `AirportBrcmFixup.kext` version `1.1.5`
-- Added `BrcmFirmwareRepo.kext` version `RehabMan-BrcmPatchRAM-2018-0505`
+- Added `BrcmFirmwareData.kext` version `RehabMan-BrcmPatchRAM-2018-0505`
+	- `BrcmFirmwareData.kext` can be injected but `BrcmFirmwareRepo.kext` is meant to goto `/S/L/E`
 - Added `BrcmPatchRAM2.kext` version `RehabMan-BrcmPatchRAM-2018-0505`
 
 # Smbios
