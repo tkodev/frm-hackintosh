@@ -42,10 +42,20 @@ Audio: ALC892
 - Add entire smbios dict - Generated `iMac14,2` via Clover Configurator
 - Ensure serial number is invalid for iMessage
 
-# Graphics
+# Lilu
+- `https://github.com/acidanthera/Lilu`
+- Add `Lilu.kext` version `1.2.7`
+
+# Intel Graphics
 - `https://www.tonymacx86.com/threads/solved-issue-with-hd-4600-on-high-sierra-10-13-2.244130/`
 - `tonymacx86.com - solved-issue-with-hd-4600.pdf`
+- `https://github.com/acidanthera/WhateverGreen`
 - Add HD4600 platform ID
+- Add `WhateverGreen.kext` version `1.2.2`
+
+# Audio
+- `https://github.com/acidanthera/AppleALC`
+- Add `AppleALC.kext` version `1.3.2`
 
 # Unused Kext
 - Removed `VoodooPS2Controller.kext`
