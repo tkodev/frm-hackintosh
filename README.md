@@ -2,6 +2,7 @@
 MB: Asus Z97i Plus
 CPU: Intel i5 4690k HD 4600
 Wifi / BT: AW-CE123H Card (Broadcom BCM94352HMB) - BCM2070A0 Chip (BCM20702a1_001.002.014.1443.1469_v5565)
+Audio: ALC892
 
 # Bios
 - `https://hackintosher.com/guides/high-sierra-install-full-guide/`
@@ -25,12 +26,17 @@ Wifi / BT: AW-CE123H Card (Broadcom BCM94352HMB) - BCM2070A0 Chip (BCM20702a1_00
 # Boot
 - `https://hackintosher.com/guides/high-sierra-install-full-guide/`
 - `/guides/hackintosher.com - high-sierra-install-full-guide`
-darkwake = darkwake -> darkwake=1
-dart = unchecked
+- darkwake = darkwake -> darkwake=1
+- dart = checked -> unchecked
+- System Prefs > Energy Saver > Wake for Ethernet Network access = checked -> unchecked
+- System Prefs > Energy Saver > Enable Power Nap = checked -> unchecked
 
-# WIFI 
+# WIFI / BT
 - `https://www.tonymacx86.com/threads/broadcom-wifi-bluetooth-guide.242423/`
 - `/guides/tonymacx86.com - broadcom-wifi-bluetooth-guide.pdf`
+- Added `AirportBrcmFixup.kext` version `1.1.5`
+- Added `BrcmFirmwareRepo.kext` version `RehabMan-BrcmPatchRAM-2018-0505`
+- Added `BrcmPatchRAM2.kext` version `RehabMan-BrcmPatchRAM-2018-0505`
 
 # Smbios
 Add entire smbios dict

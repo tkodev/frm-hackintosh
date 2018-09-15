@@ -248,6 +248,11 @@
 			<key>ResetHDA</key>
 			<false/>
 		</dict>
+		<key>FakeID</key>
+		<dict>
+			<key>WIFI</key>
+			<string>0x43a014e4</string>
+		</dict>
 		<key>LANInjection</key>
 		<false/>
 		<key>USB</key>
