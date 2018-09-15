@@ -31,13 +31,23 @@ Audio: ALC892
 - System Prefs > Energy Saver > Wake for Ethernet Network access = checked -> unchecked
 - System Prefs > Energy Saver > Enable Power Nap = checked -> unchecked
 
+
 # WIFI / BT
 - `https://www.tonymacx86.com/threads/broadcom-wifi-bluetooth-guide.242423/`
 - `/guides/tonymacx86.com - broadcom-wifi-bluetooth-guide.pdf`
-- Added `AirportBrcmFixup.kext` version `1.1.5`
-- Added `BrcmFirmwareData.kext` version `RehabMan-BrcmPatchRAM-2018-0505`
-	- `BrcmFirmwareData.kext` can be injected but `BrcmFirmwareRepo.kext` is meant to goto `/S/L/E`
-- Added `BrcmPatchRAM2.kext` version `RehabMan-BrcmPatchRAM-2018-0505`
+
+# Method 1
+- Install to `/S/L/E`
+	- `FakePCIID_Broadcom_WiFi.kext` version `RehabMan-FakePCIID-2018-0421`
+	- `FakePCIID.kext` version `RehabMan-FakePCIID-2018-0421`
+	- `BrcmFirmwareRepo.kext` version `RehabMan-BrcmPatchRAM-2018-0505`
+	- `BrcmPatchRAM2.kext` version `RehabMan-BrcmPatchRAM-2018-0505`
+
+# Method 3
+- Install to `/EFI/Clover/kexts/other/`
+	- `AirportBrcmFixup.kext` version `1.1.5`
+	- `BrcmFirmwareData.kext` version `RehabMan-BrcmPatchRAM-2018-0505`
+	- `BrcmPatchRAM2.kext` version `RehabMan-BrcmPatchRAM-2018-0505`
 
 # Smbios
 Add entire smbios dict
