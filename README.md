@@ -59,6 +59,15 @@ Audio: ALC892
 	- Audio
 		- `https://github.com/acidanthera/AppleALC`
 		- Add `AppleALC.kext` version `1.3.2`
+	- USB
+		- USB Inject / port limit patch
+			-	`https://www.tonymacx86.com/threads/bluetooth-not-working-broadcom-bcm4352-azurewave-aw-ce123h-wif-i-bt.253094/`
+			- `tonymacx86.com - bluetooth-not-working-broadcom-bcm4352-azurewave-aw-ce123h.pdf`
+			- May require USBInjectAll.kext in `/L/E` and `CLOVER/kexts/Other`.
+		- Custom SSDT patching
+			- `https://www.tonymacx86.com/threads/guide-creating-a-custom-ssdt-for-usbinjectall-kext.211311/`
+			- `tonymacx86.com - guide-creating-a-custom-ssdt-for-usbinjectall-kext.pdf`
+			- USB port limit and inject are unstable. We need to accurately map ACPI usb ports for USBInjectAll.kext for proper USB operation
 	- WIFI / BT
 		- `https://www.tonymacx86.com/threads/broadcom-wifi-bluetooth-guide.242423/`
 		- `tonymacx86.com - broadcom-wifi-bluetooth-guide.pdf`
