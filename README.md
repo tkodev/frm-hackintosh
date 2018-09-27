@@ -89,3 +89,13 @@ Audio: ALC892
 			- `FakePCIID.kext` version `RehabMan-FakePCIID-2018-0421`
 			- `BrcmFirmwareRepo.kext` version `RehabMan-BrcmPatchRAM-2018-0505`
 			- `BrcmPatchRAM2.kext` version `RehabMan-BrcmPatchRAM-2018-0505`
+- GTX 1080
+	- `https://www.tonymacx86.com/threads/nvidia-releases-alternate-graphics-drivers-for-macos-high-sierra-10-13-6-387-10-10-10-40.255913/`
+	- `tonymacx86.com - nvidia-releases-alt-drivers-high-sierra-10-13-6.pdf`
+	- Install alternate drivers
+		- Ensure build matches with drivers. About this mac > click 10.13.6
+	- SystemParameters dict > InjectKexts InjectKexts string = YES
+	- SystemParameters dict > InjectKexts InjectSystemID = true
+	- SystemParameters dict > InjectKexts NvidiaWeb = true
+	- Remove Boot/Arguments/nvda_drv=1 if necessary
+	- Enable Emulated NVRAM driver if necessary
