@@ -92,6 +92,8 @@ Audio: ALC892
 - GTX 1080
 	- `https://www.tonymacx86.com/threads/nvidia-releases-alternate-graphics-drivers-for-macos-high-sierra-10-13-6-387-10-10-10-40.255913/`
 	- `tonymacx86.com - nvidia-releases-alt-drivers-high-sierra-10-13-6.pdf`
+	- `https://www.tonymacx86.com/threads/solving-nvidia-driver-install-loading-problems.161256/`
+	- `tonymacx86.com - solving-nvidia-driver-install-loading-problems.pdf`
 	- Install alternate drivers
 		- Ensure build matches with drivers. About this mac > click 10.13.6
 	- SystemParameters dict > InjectKexts InjectKexts string = YES
