@@ -28,7 +28,9 @@ Audio: ALC892
 		- IO SerialPort = Not found
 
 # 2 - Clover Changes
-- Base Clover v2.4k_r4586 binaries, drivers and tools
+- Base Clover v2.4k_r4586 binaries and tools, custom driver loadout for High Sierra (see `/drivers` folder)
+- High sierra non-APFS Install
+  - `https://hackintosher.com/guides/how-to-opt-out-of-apfs-in-high-sierra/`
 - Intel 5-6-7-8-9 changes
 	- `https://www.insanelymac.com/forum/topic/323052-guide-sierra-high-sierra-mojave-on-intel-5-6-7-8-9-chipset-series-nehalem-sandybridge-ivybridge-haswell-broadwell/`
 	- `insanelymac.com - high-sierra-mojave-on-intel-5-6-7-8-9.pdf`
