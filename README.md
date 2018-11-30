@@ -6,7 +6,7 @@ Audio: ALC892
 
 # 1 - Bios
 - Hackintosher config
-  - `https://hackintosher.comhigh-sierra-install-full-guide/`
+  - `https://hackintosher.com/guides/high-sierra-install-full-guide/`
 	- `hackintosher.com - high-sierra-install-full-guide`
 	- Modified entries
 		- Intel Virtualization Technology = Disabled -> Enabled
@@ -38,7 +38,7 @@ Audio: ALC892
 	- Many config changes here....
 - Config changes
 	- Boot
-		- `https://hackintosher.comhigh-sierra-install-full-guide/`
+		- `https://hackintosher.com/guides/high-sierra-install-full-guide/`
 		- `hackintosher.com - high-sierra-install-full-guide.pdf`
 		- Boot > darkwake = darkwake -> darkwake=1
 		- Boot > dart = checked -> unchecked
@@ -76,7 +76,7 @@ Audio: ALC892
 		- `RealtekRTL8111.kext`
 
 # 3 - High Sierra Install Guide
-- `https://hackintosher.commacos-high-sierra-hackintosh-install-clover-walkthrough/`
+- `https://hackintosher.com/guides/macos-high-sierra-hackintosh-install-clover-walkthrough/`
 - `hackintosher.com - macos-high-sierra-hackintosh-install-clover-walkthrough.pdf`
 - Boot from install usb, format drive HFS+Journalled + GUID, Install Mac OS, Reboot from install usb, perform edits to xml to skip APFS, reboot to install usb but choose mac partition, select same partition if installer reboots.
 - Alternatively, clone the drive after an APFS install into HFS+ using CCC. Might encounter install bugs however.
